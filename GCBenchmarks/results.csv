@@ -1,0 +1,2 @@
+time,gc_time,mark_time,sweep_time,time_to_safepoint,ncollections,nfull_sweeps,file,threads,gcthreads,version
+44191580109,1912526234,0,0,341003,0,29,inference_benchmarks.jl,1,0,1.13.0-DEV.320
