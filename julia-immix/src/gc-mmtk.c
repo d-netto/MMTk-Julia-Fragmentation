@@ -233,6 +233,7 @@ JL_DLLEXPORT void jl_gc_collect(jl_gc_collection_t collection) {
         return;
     }
     mmtk_handle_user_collection_request(ptls, collection);
+    print_fragmentation();
 }
 
 
@@ -321,6 +322,7 @@ JL_DLLEXPORT void jl_gc_prepare_to_collect(void)
     SetLastError(last_error);
 #endif
     errno = last_errno;
+    print_fragmentation();
 }
 
 // ========================================================================= //
