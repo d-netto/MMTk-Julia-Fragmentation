@@ -1,0 +1,4 @@
+.idea/
+julia/*.o
+julia/*.dbj.obj
+.vscode
