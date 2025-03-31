@@ -1,0 +1,6 @@
+export MMTK_JULIA_DIR=/home/ubuntu/MMTk-Fragmentation/mmtk-julia
+
+USE_BINARYBUILDER_MMTK_JULIA=0
+
+WITH_THIRD_PARTY_GC=mmtk
+MMTK_PLAN=Immix
