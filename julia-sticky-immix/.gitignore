@@ -7,7 +7,6 @@
 /usr
 /oprofile_data
 /usr-staging
-/Make.user
 /julia-*
 /source-dist.tmp
 /source-dist.tmp1
