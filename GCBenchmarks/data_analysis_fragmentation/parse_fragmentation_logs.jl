@@ -1,12 +1,19 @@
 using Plots
 
-const STOCK_GC_FRAGMENTATION_PATHS = ["stock_gc_fragmentation_logs.txt"]
+const STOCK_GC_FRAGMENTATION_PATHS = ["logs/fragmentation_benchmark_julia-stock.log", "logs/inference_benchmark_julia-stock.log"]
 
 # Each line in the logs are of the form:
 # `Utilization in pool allocator: 0.131837, 8849600 live bytes and 67125248 bytes in pages`
 # Let's exptract utilization and fragmentation data from the logs and plot them as a time series
 function parse_stock_gc_fragmentation_logs()
     for path in STOCK_GC_FRAGMENTATION_PATHS
+        # Whether we're running the fragmentation benchmark or the inference benchmark
+        fragmentation_benchmark = false
+        if occursin("fragmentation_benchmark", path)
+            fragmentation_benchmark = true
+        else
+            # inference benchmark...
+        end
         # Read the file
         lines = readlines(path)
         # Extract the utilization and fragmentation data
@@ -26,7 +33,7 @@ function parse_stock_gc_fragmentation_logs()
                 push!(fragmentation, fragmentation_in_mb)
             end
         end
-        # Plot the data
+        # Plot the utilization data
         plot(
             utilization,
             title="Stock GC Pool Allocator Utilization",
@@ -35,7 +42,9 @@ function parse_stock_gc_fragmentation_logs()
             legend=false,
             grid=true,
         )
-        savefig("stock_gc_utilization.png")
+        file_name = fragmentation_benchmark ? "stock_gc_fragmentation_benchmark_utilization.png" : "stock_gc_inference_benchmark_utilization.png"
+        savefig(file_name)
+        # Plot the fragmentation data
         plot(
             fragmentation,
             title="Stock GC Pool Allocator Fragmentation",
@@ -44,17 +53,31 @@ function parse_stock_gc_fragmentation_logs()
             legend=false,
             grid=true,
         )
-        savefig("stock_gc_fragmentation.png")
+        file_name = fragmentation_benchmark ? "stock_gc_fragmentation_benchmark_fragmentation.png" : "stock_gc_inference_benchmark_fragmentation.png"
+        savefig(file_name)
     end
 end
 
-const MMTK_IMMIX_GC_FRAGMENTATION_PATHS = ["mmtk_sticky_immix_gc_fragmentation_logs.txt"]
+const MMTK_GC_FRAGMENTATION_PATHS = ["logs/fragmentation_benchmark_julia-immix.log", "logs/inference_benchmark_julia-immix.log",
+                                    "logs/fragmentation_benchmark_julia-sticky-immix.log", "logs/inference_benchmark_julia-sticky-immix.log"]
 
 # Each line in the logs are of the form:
 # `Utilization in space "immix": 33428624 live bytes, 150147072 total bytes, 22.26 %`
 # Let's exptract utilization and fragmentation data from the logs and plot them as a time series
-function parse_mmtk_sticky_immix_gc_fragmentation_logs()
-    for path in MMTK_IMMIX_GC_FRAGMENTATION_PATHS
+function parse_mmtk_gc_fragmentation_logs()
+    for path in MMTK_GC_FRAGMENTATION_PATHS
+        # Whether we're running the fragmentation benchmark or the inference benchmark
+        fragmentation_benchmark = false
+        if occursin("fragmentation_benchmark", path)
+            fragmentation_benchmark = true
+        else
+            # inference benchmark...
+        end
+        # Whether the GC is generational or not
+        sticky = false
+        if occursin("sticky", path)
+            sticky = true
+        end
         # Read the file
         lines = readlines(path)
         # Extract the utilization and fragmentation data
@@ -74,27 +97,41 @@ function parse_mmtk_sticky_immix_gc_fragmentation_logs()
                 push!(fragmentation, fragmentation_in_mb)
             end
         end
-        # Plot the data
+        # Plot the utilization data
+        gc_name = sticky ? "MMTk Sticky Immix" : "MMTk Immix"
         plot(
             utilization,
-            title="MMTk Immix GC Utilization",
+            title="$gc_name Utilization (IMMIX space)",
             xlabel="GC Iteration",
             ylabel="Utilization (%X)",
             legend=false,
             grid=true,
         )
-        savefig("mmtk_sticky_immix_utilization.png")
+        local utilization_file_name
+        if fragmentation_benchmark
+            utilization_file_name = sticky ? "mmtk_sticky_immix_fragmentation_benchmark_utilization.png" : "mmtk_immix_fragmentation_benchmark_utilization.png"
+        else
+            utilization_file_name = sticky ? "mmtk_sticky_immix_inference_benchmark_utilization.png" : "mmtk_immix_inference_benchmark_utilization.png"
+        end
+        savefig(utilization_file_name)
+        # Plot the fragmentation data
         plot(
             fragmentation,
-            title="MMTk Immix GC Fragmentation",
+            title="$gc_name Fragmentation (IMMIX space)",
             xlabel="GC Iteration",
             ylabel="Fragmentation (MB)",
             legend=false,
             grid=true,
         )
-        savefig("mmtk_sticky_immix_fragmentation.png")
+        local fragmentation_file_name
+        if fragmentation_benchmark
+            fragmentation_file_name = sticky ? "mmtk_sticky_immix_fragmentation_benchmark_fragmentation.png" : "mmtk_immix_fragmentation_benchmark_fragmentation.png"
+        else
+            fragmentation_file_name = sticky ? "mmtk_sticky_immix_inference_benchmark_fragmentation.png" : "mmtk_immix_inference_benchmark_fragmentation.png"
+        end
+        savefig(fragmentation_file_name)
     end
 end
 
 parse_stock_gc_fragmentation_logs()
-parse_mmtk_sticky_immix_gc_fragmentation_logs()
+parse_mmtk_gc_fragmentation_logs()

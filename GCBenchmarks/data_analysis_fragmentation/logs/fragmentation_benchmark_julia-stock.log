@@ -1,0 +1,454 @@
+Utilization in pool allocator: 0.129755, 8709840 live bytes and 67125248 bytes in pages
+Utilization in pool allocator: 0.238340, 15998624 live bytes and 67125248 bytes in pages
+Utilization in pool allocator: 0.377332, 25328480 live bytes and 67125248 bytes in pages
+Utilization in pool allocator: 0.234889, 31534008 live bytes and 134250496 bytes in pages
+[ Info: Setting GC memory pressure callback
+Utilization in pool allocator: 0.257772, 34606032 live bytes and 134250496 bytes in pages
+Processing size class 32
+  Actual payload size: 24 bytes, N: 16
+  Allocating 5242880 objects
+Utilization in pool allocator: 0.232764, 31248720 live bytes and 134250496 bytes in pages
+        Before: Pool 4: 9.82%
+Utilization in pool allocator: 0.676066, 90762200 live bytes and 134250496 bytes in pages
+Utilization in pool allocator: 0.654081, 175621464 live bytes and 268500992 bytes in pages
+Utilization in pool allocator: 0.742124, 199261152 live bytes and 268500992 bytes in pages
+         Alloc: Pool 4: 99.99%
+Utilization in pool allocator: 0.429713, 115378424 live bytes and 268500992 bytes in pages
+      Fragment: Pool 4: 50.55%
+Processing size class 48
+  Actual payload size: 40 bytes, N: 32
+  Allocating 3491840 objects
+Utilization in pool allocator: 0.429714, 115378680 live bytes and 268500992 bytes in pages
+        Before: Pool 6: 31.02%
+Utilization in pool allocator: 0.651824, 218769256 live bytes and 335626240 bytes in pages
+Utilization in pool allocator: 0.702849, 283073464 live bytes and 402751488 bytes in pages
+         Alloc: Pool 6: 99.99%
+Utilization in pool allocator: 0.494777, 199272072 live bytes and 402751488 bytes in pages
+      Fragment: Pool 6: 50.78%
+Processing size class 64
+  Actual payload size: 56 bytes, N: 48
+  Allocating 2621440 objects
+Utilization in pool allocator: 0.494779, 199272792 live bytes and 402751488 bytes in pages
+        Before: Pool 8: 59.21%
+Utilization in pool allocator: 0.608508, 367616104 live bytes and 604127232 bytes in pages
+         Alloc: Pool 8: 99.97%
+Utilization in pool allocator: 0.469657, 283732840 live bytes and 604127232 bytes in pages
+      Fragment: Pool 8: 51.66%
+Processing size class 80
+  Actual payload size: 72 bytes, N: 64
+  Allocating 2088960 objects
+Utilization in pool allocator: 0.469659, 283733608 live bytes and 604127232 bytes in pages
+        Before: Pool 10: 45.66%
+Utilization in pool allocator: 0.611372, 451423120 live bytes and 738377728 bytes in pages
+         Alloc: Pool 10: 99.98%
+Utilization in pool allocator: 0.498210, 367867536 live bytes and 738377728 bytes in pages
+      Fragment: Pool 10: 50.78%
+Processing size class 96
+  Actual payload size: 88 bytes, N: 80
+  Allocating 1740800 objects
+Utilization in pool allocator: 0.498212, 367868528 live bytes and 738377728 bytes in pages
+        Before: Pool 12: 30.28%
+Utilization in pool allocator: 0.569897, 535562280 live bytes and 939753472 bytes in pages
+         Alloc: Pool 12: 99.94%
+Utilization in pool allocator: 0.480984, 452006728 live bytes and 939753472 bytes in pages
+      Fragment: Pool 12: 50.32%
+Processing size class 112
+  Actual payload size: 104 bytes, N: 96
+  Allocating 1495040 objects
+Utilization in pool allocator: 0.480986, 452007864 live bytes and 939753472 bytes in pages
+        Before: Pool 14: 29.86%
+Utilization in pool allocator: 0.577005, 619705232 live bytes and 1074003968 bytes in pages
+         Alloc: Pool 14: 99.99%
+Utilization in pool allocator: 0.499054, 535985888 live bytes and 1074003968 bytes in pages
+      Fragment: Pool 14: 50.12%
+Processing size class 128
+  Actual payload size: 120 bytes, N: 112
+  Allocating 1310720 objects
+Utilization in pool allocator: 0.499055, 535987216 live bytes and 1074003968 bytes in pages
+        Before: Pool 16: 85.69%
+Utilization in pool allocator: 0.552779, 705003152 live bytes and 1275379712 bytes in pages
+         Alloc: Pool 16: 99.99%
+Utilization in pool allocator: 0.487008, 621120192 live bytes and 1275379712 bytes in pages
+      Fragment: Pool 16: 50.95%
+Processing size class 144
+  Actual payload size: 136 bytes, N: 128
+  Allocating 1157120 objects
+Utilization in pool allocator: 0.487009, 621121600 live bytes and 1275379712 bytes in pages
+        Before: Pool 18: 28.48%
+Utilization in pool allocator: 0.559583, 788804632 live bytes and 1409630208 bytes in pages
+         Alloc: Pool 18: 99.91%
+Utilization in pool allocator: 0.500482, 705494936 live bytes and 1409630208 bytes in pages
+      Fragment: Pool 18: 50.58%
+Processing size class 160
+  Actual payload size: 152 bytes, N: 144
+  Allocating 1044480 objects
+Utilization in pool allocator: 0.500483, 705496424 live bytes and 1409630208 bytes in pages
+        Before: Pool 19: 70.73%
+Utilization in pool allocator: 0.542017, 873192952 live bytes and 1611005952 bytes in pages
+         Alloc: Pool 19: 99.96%
+Utilization in pool allocator: 0.490152, 789637944 live bytes and 1611005952 bytes in pages
+      Fragment: Pool 19: 50.52%
+Processing size class 176
+  Actual payload size: 168 bytes, N: 160
+  Allocating 952320 objects
+Utilization in pool allocator: 0.490153, 789639528 live bytes and 1611005952 bytes in pages
+        Before: Pool 20: 66.55%
+Utilization in pool allocator: 0.548537, 957337048 live bytes and 1745256448 bytes in pages
+         Alloc: Pool 20: 99.99%
+Utilization in pool allocator: 0.500520, 873535896 live bytes and 1745256448 bytes in pages
+      Fragment: Pool 20: 50.21%
+Processing size class 192
+  Actual payload size: 184 bytes, N: 176
+  Allocating 870400 objects
+Utilization in pool allocator: 0.500521, 873537704 live bytes and 1745256448 bytes in pages
+        Before: Pool 21: 61.69%
+Utilization in pool allocator: 0.534890, 1041234784 live bytes and 1946632192 bytes in pages
+         Alloc: Pool 21: 99.99%
+Utilization in pool allocator: 0.491967, 957679424 live bytes and 1946632192 bytes in pages
+      Fragment: Pool 21: 50.27%
+Processing size class 208
+  Actual payload size: 200 bytes, N: 192
+  Allocating 798720 objects
+Utilization in pool allocator: 0.491968, 957681376 live bytes and 1946632192 bytes in pages
+        Before: Pool 22: 48.02%
+Utilization in pool allocator: 0.540817, 1125377608 live bytes and 2080882688 bytes in pages
+         Alloc: Pool 22: 100.0%
+Utilization in pool allocator: 0.500900, 1042313800 live bytes and 2080882688 bytes in pages
+      Fragment: Pool 22: 50.53%
+Processing size class 224
+  Actual payload size: 216 bytes, N: 208
+  Allocating 747520 objects
+Utilization in pool allocator: 0.500901, 1042315928 live bytes and 2080882688 bytes in pages
+        Before: Pool 23: 2.71%
+Utilization in pool allocator: 0.530178, 1210003064 live bytes and 2282258432 bytes in pages
+         Alloc: Pool 23: 99.99%
+Utilization in pool allocator: 0.493495, 1126284184 live bytes and 2282258432 bytes in pages
+      Fragment: Pool 23: 50.15%
+Processing size class 240
+  Actual payload size: 232 bytes, N: 224
+  Allocating 696320 objects
+Utilization in pool allocator: 0.493496, 1126286128 live bytes and 2282258432 bytes in pages
+        Before: Pool 24: 77.08%
+Utilization in pool allocator: 0.535476, 1293983560 live bytes and 2416508928 bytes in pages
+         Alloc: Pool 24: 99.99%
+Utilization in pool allocator: 0.500900, 1210428344 live bytes and 2416508928 bytes in pages
+      Fragment: Pool 24: 50.33%
+Processing size class 256
+  Actual payload size: 248 bytes, N: 240
+  Allocating 655360 objects
+Utilization in pool allocator: 0.500901, 1210430696 live bytes and 2416508928 bytes in pages
+        Before: Pool 25: 62.62%
+Utilization in pool allocator: 0.527444, 1380788168 live bytes and 2617884672 bytes in pages
+         Alloc: Pool 25: 99.99%
+Utilization in pool allocator: 0.495402, 1296905256 live bytes and 2617884672 bytes in pages
+      Fragment: Pool 25: 50.85%
+Processing size class 272
+  Actual payload size: 264 bytes, N: 256
+  Allocating 614400 objects
+Utilization in pool allocator: 0.495402, 1296905576 live bytes and 2617884672 bytes in pages
+        Before: Pool 26: 59.95%
+Utilization in pool allocator: 0.532170, 1464602984 live bytes and 2752135168 bytes in pages
+         Alloc: Pool 26: 100.0%
+Utilization in pool allocator: 0.501810, 1381047784 live bytes and 2752135168 bytes in pages
+      Fragment: Pool 26: 50.24%
+Processing size class 288
+  Actual payload size: 280 bytes, N: 272
+  Allocating 573440 objects
+Utilization in pool allocator: 0.501810, 1381048104 live bytes and 2752135168 bytes in pages
+        Before: Pool 27: 62.11%
+Utilization in pool allocator: 0.524375, 1548747256 live bytes and 2953510912 bytes in pages
+         Alloc: Pool 27: 99.98%
+Utilization in pool allocator: 0.496418, 1466175384 live bytes and 2953510912 bytes in pages
+      Fragment: Pool 27: 50.88%
+Processing size class 304
+  Actual payload size: 296 bytes, N: 288
+  Allocating 542720 objects
+Utilization in pool allocator: 0.496418, 1466175704 live bytes and 2953510912 bytes in pages
+        Before: Pool 28: 88.67%
+Utilization in pool allocator: 0.529146, 1633876400 live bytes and 3087761408 bytes in pages
+         Alloc: Pool 28: 100.0%
+Utilization in pool allocator: 0.502431, 1551386496 live bytes and 3087761408 bytes in pages
+      Fragment: Pool 28: 50.95%
+Processing size class 336
+  Actual payload size: 328 bytes, N: 320
+  Allocating 491520 objects
+Utilization in pool allocator: 0.502431, 1551386816 live bytes and 3087761408 bytes in pages
+        Before: Pool 29: 71.29%
+Utilization in pool allocator: 0.522656, 1719087000 live bytes and 3289137152 bytes in pages
+         Alloc: Pool 29: 99.99%
+Utilization in pool allocator: 0.497551, 1636514968 live bytes and 3289137152 bytes in pages
+      Fragment: Pool 29: 50.87%
+Processing size class 368
+  Actual payload size: 360 bytes, N: 352
+  Allocating 450560 objects
+Utilization in pool allocator: 0.497552, 1636515288 live bytes and 3289137152 bytes in pages
+        Before: Pool 30: 75.68%
+Utilization in pool allocator: 0.527026, 1804215848 live bytes and 3423387648 bytes in pages
+         Alloc: Pool 30: 99.99%
+Utilization in pool allocator: 0.502811, 1721316232 live bytes and 3423387648 bytes in pages
+      Fragment: Pool 30: 50.77%
+Processing size class 400
+  Actual payload size: 392 bytes, N: 384
+  Allocating 409600 objects
+Utilization in pool allocator: 0.502811, 1721316552 live bytes and 3423387648 bytes in pages
+        Before: Pool 31: 80.56%
+Utilization in pool allocator: 0.521142, 1889017760 live bytes and 3624763392 bytes in pages
+         Alloc: Pool 31: 100.0%
+Utilization in pool allocator: 0.498543, 1807101312 live bytes and 3624763392 bytes in pages
+      Fragment: Pool 31: 51.27%
+Processing size class 448
+  Actual payload size: 440 bytes, N: 432
+  Allocating 368640 objects
+Utilization in pool allocator: 0.498543, 1807101632 live bytes and 3624763392 bytes in pages
+        Before: Pool 32: 77.76%
+Utilization in pool allocator: 0.525351, 1974799992 live bytes and 3759013888 bytes in pages
+         Alloc: Pool 32: 99.98%
+Utilization in pool allocator: 0.503384, 1892228296 live bytes and 3759013888 bytes in pages
+      Fragment: Pool 32: 50.99%
+Processing size class 496
+  Actual payload size: 488 bytes, N: 480
+  Allocating 337920 objects
+Utilization in pool allocator: 0.503384, 1892228616 live bytes and 3759013888 bytes in pages
+        Before: Pool 33: 74.84%
+Utilization in pool allocator: 0.520133, 2059929992 live bytes and 3960389632 bytes in pages
+         Alloc: Pool 33: 100.0%
+Utilization in pool allocator: 0.498974, 1976129480 live bytes and 3960389632 bytes in pages
+      Fragment: Pool 33: 50.17%
+Processing size class 544
+  Actual payload size: 536 bytes, N: 528
+  Allocating 307200 objects
+Utilization in pool allocator: 0.498974, 1976129816 live bytes and 3960389632 bytes in pages
+        Before: Pool 34: 89.81%
+Utilization in pool allocator: 0.523570, 2143831632 live bytes and 4094640128 bytes in pages
+         Alloc: Pool 34: 99.99%
+Utilization in pool allocator: 0.503164, 2060276976 live bytes and 4094640128 bytes in pages
+      Fragment: Pool 34: 50.44%
+Processing size class 576
+  Actual payload size: 568 bytes, N: 560
+  Allocating 286720 objects
+Utilization in pool allocator: 0.503164, 2060277312 live bytes and 4094640128 bytes in pages
+        Before: Pool 35: 95.23%
+Utilization in pool allocator: 0.518615, 2227979192 live bytes and 4296015872 bytes in pages
+         Alloc: Pool 35: 100.0%
+Utilization in pool allocator: 0.499395, 2145407640 live bytes and 4296015872 bytes in pages
+      Fragment: Pool 35: 50.91%
+Processing size class 624
+  Actual payload size: 616 bytes, N: 608
+  Allocating 266240 objects
+Utilization in pool allocator: 0.499395, 2145407976 live bytes and 4296015872 bytes in pages
+        Before: Pool 36: 87.62%
+Utilization in pool allocator: 0.522115, 2313109880 live bytes and 4430266368 bytes in pages
+         Alloc: Pool 36: 99.99%
+Utilization in pool allocator: 0.503366, 2230046904 live bytes and 4430266368 bytes in pages
+      Fragment: Pool 36: 50.65%
+Processing size class 672
+  Actual payload size: 664 bytes, N: 656
+  Allocating 245760 objects
+Utilization in pool allocator: 0.503366, 2230047240 live bytes and 4430266368 bytes in pages
+        Before: Pool 37: 89.06%
+Utilization in pool allocator: 0.517688, 2397747312 live bytes and 4631642112 bytes in pages
+         Alloc: Pool 37: 99.99%
+Utilization in pool allocator: 0.499861, 2315175952 live bytes and 4631642112 bytes in pages
+      Fragment: Pool 37: 50.93%
+Processing size class 736
+  Actual payload size: 728 bytes, N: 720
+  Allocating 225280 objects
+Utilization in pool allocator: 0.499861, 2315176288 live bytes and 4631642112 bytes in pages
+        Before: Pool 38: 84.58%
+Utilization in pool allocator: 0.520968, 2482876320 live bytes and 4765892608 bytes in pages
+         Alloc: Pool 38: 99.99%
+Utilization in pool allocator: 0.503574, 2399977408 live bytes and 4765892608 bytes in pages
+      Fragment: Pool 38: 50.76%
+Processing size class 816
+  Actual payload size: 808 bytes, N: 800
+  Allocating 204800 objects
+Utilization in pool allocator: 0.503574, 2399978016 live bytes and 4765892608 bytes in pages
+        Before: Pool 39: 89.19%
+Utilization in pool allocator: 0.516920, 2567679960 live bytes and 4967268352 bytes in pages
+         Alloc: Pool 39: 99.99%
+Utilization in pool allocator: 0.500099, 2484125848 live bytes and 4967268352 bytes in pages
+      Fragment: Pool 39: 50.42%
+Processing size class 896
+  Actual payload size: 888 bytes, N: 880
+  Allocating 184320 objects
+Utilization in pool allocator: 0.500099, 2484126184 live bytes and 4967268352 bytes in pages
+        Before: Pool 40: 89.17%
+Utilization in pool allocator: 0.519811, 2651827120 live bytes and 5101518848 bytes in pages
+         Alloc: Pool 40: 100.0%
+Utilization in pool allocator: 0.503626, 2569256208 live bytes and 5101518848 bytes in pages
+      Fragment: Pool 40: 50.99%
+Processing size class 1008
+  Actual payload size: 1000 bytes, N: 992
+  Allocating 163840 objects
+Utilization in pool allocator: 0.503626, 2569256544 live bytes and 5101518848 bytes in pages
+        Before: Pool 41: 91.24%
+Utilization in pool allocator: 0.516125, 2736955032 live bytes and 5302894592 bytes in pages
+         Alloc: Pool 41: 100.0%
+Utilization in pool allocator: 0.500554, 2654384376 live bytes and 5302894592 bytes in pages
+      Fragment: Pool 41: 51.04%
+Processing size class 1088
+  Actual payload size: 1080 bytes, N: 1072
+  Allocating 153600 objects
+Utilization in pool allocator: 0.500554, 2654384712 live bytes and 5302894592 bytes in pages
+        Before: Pool 42: 92.2%
+Utilization in pool allocator: 0.519038, 2822083248 live bytes and 5437145088 bytes in pages
+         Alloc: Pool 42: 100.0%
+Utilization in pool allocator: 0.503671, 2738529840 live bytes and 5437145088 bytes in pages
+      Fragment: Pool 42: 50.38%
+Processing size class 1168
+  Actual payload size: 1160 bytes, N: 1152
+  Allocating 143360 objects
+Utilization in pool allocator: 0.503671, 2738530176 live bytes and 5437145088 bytes in pages
+        Before: Pool 43: 88.45%
+Utilization in pool allocator: 0.515424, 2906228408 live bytes and 5638520832 bytes in pages
+         Alloc: Pool 43: 100.0%
+Utilization in pool allocator: 0.500577, 2822511704 live bytes and 5638520832 bytes in pages
+      Fragment: Pool 43: 50.22%
+Processing size class 1248
+  Actual payload size: 1240 bytes, N: 1232
+  Allocating 133120 objects
+Utilization in pool allocator: 0.500577, 2822512040 live bytes and 5638520832 bytes in pages
+        Before: Pool 44: 89.76%
+Utilization in pool allocator: 0.517985, 2990210120 live bytes and 5772771328 bytes in pages
+         Alloc: Pool 44: 99.99%
+Utilization in pool allocator: 0.503597, 2907148472 live bytes and 5772771328 bytes in pages
+      Fragment: Pool 44: 50.61%
+Processing size class 1360
+  Actual payload size: 1352 bytes, N: 1344
+  Allocating 122880 objects
+Utilization in pool allocator: 0.503597, 2907148808 live bytes and 5772771328 bytes in pages
+        Before: Pool 45: 87.94%
+Utilization in pool allocator: 0.514692, 3074846968 live bytes and 5974147072 bytes in pages
+         Alloc: Pool 45: 100.0%
+Utilization in pool allocator: 0.500706, 2991293944 live bytes and 5974147072 bytes in pages
+      Fragment: Pool 45: 50.42%
+Processing size class 1488
+  Actual payload size: 1480 bytes, N: 1472
+  Allocating 112640 objects
+Utilization in pool allocator: 0.500707, 2991294280 live bytes and 5974147072 bytes in pages
+        Before: Pool 46: 96.59%
+Utilization in pool allocator: 0.517156, 3158992984 live bytes and 6108397568 bytes in pages
+         Alloc: Pool 46: 99.99%
+Utilization in pool allocator: 0.503437, 3075194632 live bytes and 6108397568 bytes in pages
+      Fragment: Pool 46: 50.2%
+Processing size class 1632
+  Actual payload size: 1624 bytes, N: 1616
+  Allocating 102400 objects
+Utilization in pool allocator: 0.503437, 3075194968 live bytes and 6108397568 bytes in pages
+        Before: Pool 47: 87.95%
+Utilization in pool allocator: 0.513948, 3242893840 live bytes and 6309773312 bytes in pages
+         Alloc: Pool 47: 100.0%
+Utilization in pool allocator: 0.500706, 3159341360 live bytes and 6309773312 bytes in pages
+      Fragment: Pool 47: 50.38%
+Processing size class 1808
+  Actual payload size: 1800 bytes, N: 1792
+  Allocating 92160 objects
+Utilization in pool allocator: 0.500706, 3159341696 live bytes and 6309773312 bytes in pages
+        Before: Pool 48: 99.42%
+Utilization in pool allocator: 0.516299, 3327040640 live bytes and 6444023808 bytes in pages
+         Alloc: Pool 48: 100.0%
+Utilization in pool allocator: 0.503371, 3243734272 live bytes and 6444023808 bytes in pages
+      Fragment: Pool 48: 50.53%
+Processing size class 2032
+  Actual payload size: 2024 bytes, N: 2016
+  Allocating 81920 objects
+Utilization in pool allocator: 0.503371, 3243734608 live bytes and 6444023808 bytes in pages
+        Before: Pool 49: 92.72%
+Utilization in pool allocator: 0.513353, 3411433592 live bytes and 6645399552 bytes in pages
+         Alloc: Pool 49: 100.0%
+Utilization in pool allocator: 0.500829, 3328209592 live bytes and 6645399552 bytes in pages
+      Fragment: Pool 49: 50.6%
+
+Fragmentation complete.
+Utilization in pool allocator: 0.500829, 3328209592 live bytes and 6645399552 bytes in pages
+         Final: Pool 1: 100.0%
+         Final: Pool 2: 1.09%
+         Final: Pool 3: 100.0%
+         Final: Pool 4: 50.57%
+         Final: Pool 5: 100.0%
+         Final: Pool 6: 50.82%
+         Final: Pool 7: 100.0%
+         Final: Pool 8: 51.71%
+         Final: Pool 9: 100.0%
+         Final: Pool 10: 50.81%
+         Final: Pool 11: 100.0%
+         Final: Pool 12: 50.32%
+         Final: Pool 13: 100.0%
+         Final: Pool 14: 50.12%
+         Final: Pool 15: 100.0%
+         Final: Pool 16: 50.95%
+         Final: Pool 17: 100.0%
+         Final: Pool 18: 50.61%
+         Final: Pool 19: 50.52%
+         Final: Pool 20: 50.21%
+         Final: Pool 21: 50.27%
+         Final: Pool 22: 50.53%
+         Final: Pool 23: 50.15%
+         Final: Pool 24: 50.33%
+         Final: Pool 25: 50.85%
+         Final: Pool 26: 50.24%
+         Final: Pool 27: 50.88%
+         Final: Pool 28: 50.95%
+         Final: Pool 29: 50.87%
+         Final: Pool 30: 50.77%
+         Final: Pool 31: 51.27%
+         Final: Pool 32: 50.99%
+         Final: Pool 33: 50.17%
+         Final: Pool 34: 50.44%
+         Final: Pool 35: 50.91%
+         Final: Pool 36: 50.66%
+         Final: Pool 37: 50.93%
+         Final: Pool 38: 50.76%
+         Final: Pool 39: 50.42%
+         Final: Pool 40: 50.99%
+         Final: Pool 41: 51.04%
+         Final: Pool 42: 50.38%
+         Final: Pool 43: 50.22%
+         Final: Pool 44: 50.61%
+         Final: Pool 45: 50.42%
+         Final: Pool 46: 50.2%
+         Final: Pool 47: 50.38%
+         Final: Pool 48: 50.53%
+         Final: Pool 49: 50.6%
+Kept lists: 39
+  List length: 2621442
+  List length: 1745922
+  List length: 1310722
+  List length: 1044482
+  List length: 870402
+  List length: 747522
+  List length: 655362
+  List length: 578562
+  List length: 522242
+  List length: 476162
+  List length: 435202
+  List length: 399362
+  List length: 373762
+  List length: 348162
+  List length: 327682
+  List length: 307202
+  List length: 286722
+  List length: 271362
+  List length: 245762
+  List length: 225282
+  List length: 204802
+  List length: 184322
+  List length: 168962
+  List length: 153602
+  List length: 143362
+  List length: 133122
+  List length: 122882
+  List length: 112642
+  List length: 102402
+  List length: 92162
+  List length: 81922
+  List length: 76802
+  List length: 71682
+  List length: 66562
+  List length: 61442
+  List length: 56322
+  List length: 51202
+  List length: 46082
+  List length: 40962
+Total live objects: 15764558
+(value = nothing, times = 0x000000205c39d8c6, gc_diff = Base.GC_Diff(6637404032, 1066, 0, 34593471, 106, 2797, 130266063622, 121, 118), gc_start = Base.GC_Num(68623296, 0, 0, 4040, 0, 5339890, 1530, 1952, 439241614, 271187368, 0x0000000002bc0000, 5, 1, 179794946, 122499864, 16598, 16598, 66052, 6431179, 19500899, 1368, 34938517, 21777253, 52045, 1407996, 404301764, 9283, 386401188781303, 386402744023062), gc_end = Base.GC_Num(88976, 0, 0, 5106, 0, 39933361, 1636, 4749, 130705305236, 6977125720, 0x0000000002bc0000, 126, 119, 1183349217, 3392287296, 5136, 21741, 1609756, 42615117, 1136441285, 1894, 30673010758, 29235565710, 317017, 32677220, 100032227953, 407258, 386540397779851, 386541576841848))

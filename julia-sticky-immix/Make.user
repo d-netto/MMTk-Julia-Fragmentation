@@ -1,4 +1,4 @@
-export MMTK_JULIA_DIR=/home/ubuntu/MMTk-Fragmentation/mmtk-julia
+export MMTK_JULIA_DIR=/home/ubuntu/MMTk-Julia-Fragmentation/mmtk-julia
 
 USE_BINARYBUILDER_MMTK_JULIA=0
 

@@ -1,0 +1,1336 @@
+Utilization in space "immix": 8802440 live bytes, 39649280 total bytes, 22.20 %
+Utilization in space "los": 2608272 live bytes, 2805760 total bytes, 92.96 %
+Utilization in space "vm_space": 0 live bytes, 249634816 total bytes, 0.00 %
+Utilization in space "immortal": 0 live bytes, 2342912 total bytes, 0.00 %
+Utilization in space "immortal": 0 live bytes, 2342912 total bytes, 0.00 %
+Utilization in space "immix": 7766760 live bytes, 46387200 total bytes, 16.74 %
+Utilization in space "los": 4212504 live bytes, 5804032 total bytes, 72.58 %
+Utilization in space "vm_space": 0 live bytes, 249634816 total bytes, 0.00 %
+Utilization in space "immix": 7112912 live bytes, 66510848 total bytes, 10.69 %
+Utilization in space "vm_space": 0 live bytes, 249634816 total bytes, 0.00 %
+Utilization in space "los": 2169496 live bytes, 8970240 total bytes, 24.19 %
+Utilization in space "immortal": 0 live bytes, 2342912 total bytes, 0.00 %
+Utilization in space "los": 5094488 live bytes, 12865536 total bytes, 39.60 %
+Utilization in space "immortal": 0 live bytes, 2342912 total bytes, 0.00 %
+Utilization in space "vm_space": 0 live bytes, 249634816 total bytes, 0.00 %
+Utilization in space "immix": 13768088 live bytes, 101367808 total bytes, 13.58 %
+Utilization in space "immix": 5301280 live bytes, 148160512 total bytes, 3.58 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immortal": 0 live bytes, 2375680 total bytes, 0.00 %
+Utilization in space "los": 2432808 live bytes, 12873728 total bytes, 18.90 %
+[ Info: Setting GC memory pressure callback
+Utilization in space "immix": 34564464 live bytes, 150802432 total bytes, 22.92 %
+Utilization in space "immortal": 568160 live bytes, 2375680 total bytes, 23.92 %
+Utilization in space "los": 9889784 live bytes, 12898304 total bytes, 76.68 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Processing size class 32
+  Actual payload size: 24 bytes, N: 16
+  Allocating 5242880 objects
+Utilization in space "immortal": 552480 live bytes, 2375680 total bytes, 23.26 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immix": 30082008 live bytes, 135540736 total bytes, 22.19 %
+Utilization in space "los": 9768072 live bytes, 12771328 total bytes, 76.48 %
+Utilization in space "immortal": 552480 live bytes, 2375680 total bytes, 23.26 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immix": 30082008 live bytes, 135540736 total bytes, 22.19 %
+Utilization in space "los": 9768072 live bytes, 12771328 total bytes, 76.48 %
+        Before: Pool 4: 0.0%
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "los": 2276416 live bytes, 12771328 total bytes, 17.82 %
+Utilization in space "immix": 106976264 live bytes, 189538304 total bytes, 56.44 %
+Utilization in space "immortal": 0 live bytes, 2375680 total bytes, 0.00 %
+Utilization in space "immortal": 552512 live bytes, 2375680 total bytes, 23.26 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "los": 9768072 live bytes, 12771328 total bytes, 76.48 %
+Utilization in space "immix": 197869840 live bytes, 253870080 total bytes, 77.94 %
+Utilization in space "immortal": 552512 live bytes, 2375680 total bytes, 23.26 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "los": 9768072 live bytes, 12771328 total bytes, 76.48 %
+Utilization in space "immix": 197869840 live bytes, 253870080 total bytes, 77.94 %
+         Alloc: Pool 4: 0.0%
+Utilization in space "immortal": 552512 live bytes, 2375680 total bytes, 23.26 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immix": 113987176 live bytes, 254439424 total bytes, 44.80 %
+Utilization in space "los": 9768072 live bytes, 12771328 total bytes, 76.48 %
+Utilization in space "immortal": 552512 live bytes, 2375680 total bytes, 23.26 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immix": 113987176 live bytes, 254439424 total bytes, 44.80 %
+Utilization in space "los": 9768072 live bytes, 12771328 total bytes, 76.48 %
+      Fragment: Pool 4: 0.0%
+Processing size class 48
+  Actual payload size: 40 bytes, N: 32
+  Allocating 3491840 objects
+Utilization in space "los": 9768072 live bytes, 12771328 total bytes, 76.48 %
+Utilization in space "immortal": 552528 live bytes, 2375680 total bytes, 23.26 %
+Utilization in space "immix": 113987432 live bytes, 253935616 total bytes, 44.89 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "los": 9768072 live bytes, 12771328 total bytes, 76.48 %
+Utilization in space "immortal": 552528 live bytes, 2375680 total bytes, 23.26 %
+Utilization in space "immix": 113987432 live bytes, 253935616 total bytes, 44.89 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+        Before: Pool 6: 0.0%
+Utilization in space "los": 9768072 live bytes, 12771328 total bytes, 76.48 %
+Utilization in space "immortal": 552560 live bytes, 2375680 total bytes, 23.26 %
+Utilization in space "immix": 138120504 live bytes, 280924160 total bytes, 49.17 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "los": 9768072 live bytes, 12771328 total bytes, 76.48 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immortal": 552560 live bytes, 2375680 total bytes, 23.26 %
+Utilization in space "immix": 281603000 live bytes, 436006912 total bytes, 64.59 %
+Utilization in space "los": 9768072 live bytes, 12771328 total bytes, 76.48 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immortal": 552560 live bytes, 2375680 total bytes, 23.26 %
+Utilization in space "immix": 281603000 live bytes, 436006912 total bytes, 64.59 %
+         Alloc: Pool 6: 0.0%
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immortal": 552560 live bytes, 2375680 total bytes, 23.26 %
+Utilization in space "los": 9768072 live bytes, 12771328 total bytes, 76.48 %
+Utilization in space "immix": 197801568 live bytes, 436613120 total bytes, 45.30 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immortal": 552560 live bytes, 2375680 total bytes, 23.26 %
+Utilization in space "los": 9768072 live bytes, 12771328 total bytes, 76.48 %
+Utilization in space "immix": 197801568 live bytes, 436613120 total bytes, 45.30 %
+      Fragment: Pool 6: 0.0%
+Processing size class 64
+  Actual payload size: 56 bytes, N: 48
+  Allocating 2621440 objects
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immix": 197802288 live bytes, 436113408 total bytes, 45.36 %
+Utilization in space "immortal": 552576 live bytes, 2375680 total bytes, 23.26 %
+Utilization in space "los": 9768072 live bytes, 12771328 total bytes, 76.48 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immix": 197802288 live bytes, 436113408 total bytes, 45.36 %
+Utilization in space "immortal": 552576 live bytes, 2375680 total bytes, 23.26 %
+Utilization in space "los": 9768072 live bytes, 12771328 total bytes, 76.48 %
+        Before: Pool 8: 0.0%
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immortal": 552608 live bytes, 2375680 total bytes, 23.26 %
+Utilization in space "los": 9768072 live bytes, 12771328 total bytes, 76.48 %
+Utilization in space "immix": 209030624 live bytes, 449134592 total bytes, 46.54 %
+Utilization in space "immix": 365581840 live bytes, 619040768 total bytes, 59.06 %
+Utilization in space "los": 9768072 live bytes, 12771328 total bytes, 76.48 %
+Utilization in space "immortal": 552608 live bytes, 2375680 total bytes, 23.26 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immix": 365581840 live bytes, 619040768 total bytes, 59.06 %
+Utilization in space "los": 9768072 live bytes, 12771328 total bytes, 76.48 %
+Utilization in space "immortal": 552608 live bytes, 2375680 total bytes, 23.26 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+         Alloc: Pool 8: 0.0%
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immix": 281698552 live bytes, 619675648 total bytes, 45.46 %
+Utilization in space "los": 9768072 live bytes, 12771328 total bytes, 76.48 %
+Utilization in space "immortal": 552608 live bytes, 2375680 total bytes, 23.26 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immix": 281698552 live bytes, 619675648 total bytes, 45.46 %
+Utilization in space "los": 9768072 live bytes, 12771328 total bytes, 76.48 %
+Utilization in space "immortal": 552608 live bytes, 2375680 total bytes, 23.26 %
+      Fragment: Pool 8: 0.0%
+Processing size class 80
+  Actual payload size: 72 bytes, N: 64
+  Allocating 2088960 objects
+Utilization in space "los": 9768072 live bytes, 12771328 total bytes, 76.48 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immix": 281699304 live bytes, 619139072 total bytes, 45.50 %
+Utilization in space "immortal": 552608 live bytes, 2375680 total bytes, 23.26 %
+Utilization in space "los": 9768072 live bytes, 12771328 total bytes, 76.48 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immix": 281699304 live bytes, 619139072 total bytes, 45.50 %
+Utilization in space "immortal": 552608 live bytes, 2375680 total bytes, 23.26 %
+        Before: Pool 10: 0.0%
+Utilization in space "immortal": 552640 live bytes, 2375680 total bytes, 23.26 %
+Utilization in space "immix": 298602648 live bytes, 638345216 total bytes, 46.78 %
+Utilization in space "los": 9768072 live bytes, 12771328 total bytes, 76.48 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immix": 448823512 live bytes, 800649216 total bytes, 56.06 %
+Utilization in space "immortal": 552640 live bytes, 2375680 total bytes, 23.26 %
+Utilization in space "los": 9768072 live bytes, 12771328 total bytes, 76.48 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immix": 448823512 live bytes, 800649216 total bytes, 56.06 %
+Utilization in space "immortal": 552640 live bytes, 2375680 total bytes, 23.26 %
+Utilization in space "los": 9768072 live bytes, 12771328 total bytes, 76.48 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+         Alloc: Pool 10: 0.0%
+Utilization in space "immortal": 552640 live bytes, 2375680 total bytes, 23.26 %
+Utilization in space "los": 9768072 live bytes, 12771328 total bytes, 76.48 %
+Utilization in space "immix": 365267904 live bytes, 801259520 total bytes, 45.59 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immortal": 552640 live bytes, 2375680 total bytes, 23.26 %
+Utilization in space "los": 9768072 live bytes, 12771328 total bytes, 76.48 %
+Utilization in space "immix": 365267904 live bytes, 801259520 total bytes, 45.59 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+      Fragment: Pool 10: 0.0%
+Processing size class 96
+  Actual payload size: 88 bytes, N: 80
+  Allocating 1740800 objects
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immortal": 552656 live bytes, 2375680 total bytes, 23.26 %
+Utilization in space "immix": 365268880 live bytes, 800739328 total bytes, 45.62 %
+Utilization in space "los": 9768072 live bytes, 12771328 total bytes, 76.48 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immortal": 552656 live bytes, 2375680 total bytes, 23.26 %
+Utilization in space "immix": 365268880 live bytes, 800739328 total bytes, 45.62 %
+Utilization in space "los": 9768072 live bytes, 12771328 total bytes, 76.48 %
+        Before: Pool 12: 0.0%
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immortal": 552688 live bytes, 2375680 total bytes, 23.26 %
+Utilization in space "los": 9768072 live bytes, 12771328 total bytes, 76.48 %
+Utilization in space "immix": 532104200 live bytes, 982925312 total bytes, 54.13 %
+Utilization in space "immix": 532392856 live bytes, 982265856 total bytes, 54.20 %
+Utilization in space "immortal": 552688 live bytes, 2375680 total bytes, 23.26 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "los": 9768072 live bytes, 12771328 total bytes, 76.48 %
+Utilization in space "immix": 532392856 live bytes, 982265856 total bytes, 54.20 %
+Utilization in space "immortal": 552688 live bytes, 2375680 total bytes, 23.26 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "los": 9768072 live bytes, 12771328 total bytes, 76.48 %
+         Alloc: Pool 12: 0.0%
+Utilization in space "immix": 448837280 live bytes, 982843392 total bytes, 45.67 %
+Utilization in space "immortal": 552688 live bytes, 2375680 total bytes, 23.26 %
+Utilization in space "los": 9768072 live bytes, 12771328 total bytes, 76.48 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immix": 448837280 live bytes, 982843392 total bytes, 45.67 %
+Utilization in space "immortal": 552688 live bytes, 2375680 total bytes, 23.26 %
+Utilization in space "los": 9768072 live bytes, 12771328 total bytes, 76.48 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+      Fragment: Pool 12: 0.0%
+Processing size class 112
+  Actual payload size: 104 bytes, N: 96
+  Allocating 1495040 objects
+Utilization in space "immortal": 552704 live bytes, 2375680 total bytes, 23.27 %
+Utilization in space "los": 9768072 live bytes, 12771328 total bytes, 76.48 %
+Utilization in space "immix": 448838384 live bytes, 982347776 total bytes, 45.69 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immortal": 552704 live bytes, 2375680 total bytes, 23.27 %
+Utilization in space "los": 9768072 live bytes, 12771328 total bytes, 76.48 %
+Utilization in space "immix": 448838384 live bytes, 982347776 total bytes, 45.69 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+        Before: Pool 14: 0.0%
+Utilization in space "immix": 616290216 live bytes, 1164902400 total bytes, 52.90 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "los": 9768072 live bytes, 12771328 total bytes, 76.48 %
+Utilization in space "immortal": 552736 live bytes, 2375680 total bytes, 23.27 %
+Utilization in space "immix": 616290216 live bytes, 1164902400 total bytes, 52.90 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "los": 9768072 live bytes, 12771328 total bytes, 76.48 %
+Utilization in space "immortal": 552736 live bytes, 2375680 total bytes, 23.27 %
+         Alloc: Pool 14: 0.0%
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immix": 532570848 live bytes, 1164451840 total bytes, 45.74 %
+Utilization in space "los": 9768072 live bytes, 12771328 total bytes, 76.48 %
+Utilization in space "immortal": 552736 live bytes, 2375680 total bytes, 23.27 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immix": 532570848 live bytes, 1164451840 total bytes, 45.74 %
+Utilization in space "los": 9768072 live bytes, 12771328 total bytes, 76.48 %
+Utilization in space "immortal": 552736 live bytes, 2375680 total bytes, 23.27 %
+      Fragment: Pool 14: 0.0%
+Processing size class 128
+  Actual payload size: 120 bytes, N: 112
+  Allocating 1310720 objects
+Utilization in space "immortal": 552752 live bytes, 2375680 total bytes, 23.27 %
+Utilization in space "immix": 532572080 live bytes, 1164148736 total bytes, 45.75 %
+Utilization in space "los": 9768072 live bytes, 12771328 total bytes, 76.48 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immortal": 552752 live bytes, 2375680 total bytes, 23.27 %
+Utilization in space "immix": 532572080 live bytes, 1164148736 total bytes, 45.75 %
+Utilization in space "los": 9768072 live bytes, 12771328 total bytes, 76.48 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+        Before: Pool 16: 0.0%
+Utilization in space "immix": 700351640 live bytes, 1349455872 total bytes, 51.90 %
+Utilization in space "immortal": 552784 live bytes, 2375680 total bytes, 23.27 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "los": 9768072 live bytes, 12771328 total bytes, 76.48 %
+Utilization in space "immix": 700351640 live bytes, 1349455872 total bytes, 51.90 %
+Utilization in space "immortal": 552784 live bytes, 2375680 total bytes, 23.27 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "los": 9768072 live bytes, 12771328 total bytes, 76.48 %
+         Alloc: Pool 16: 0.0%
+Utilization in space "immix": 616468496 live bytes, 1348972544 total bytes, 45.70 %
+Utilization in space "los": 9768072 live bytes, 12771328 total bytes, 76.48 %
+Utilization in space "immortal": 552784 live bytes, 2375680 total bytes, 23.27 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immix": 616468496 live bytes, 1348972544 total bytes, 45.70 %
+Utilization in space "los": 9768072 live bytes, 12771328 total bytes, 76.48 %
+Utilization in space "immortal": 552784 live bytes, 2375680 total bytes, 23.27 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+      Fragment: Pool 16: 0.0%
+Processing size class 144
+  Actual payload size: 136 bytes, N: 128
+  Allocating 1157120 objects
+Utilization in space "immix": 616469856 live bytes, 1348780032 total bytes, 45.71 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immortal": 552800 live bytes, 2375680 total bytes, 23.27 %
+Utilization in space "los": 9768072 live bytes, 12771328 total bytes, 76.48 %
+Utilization in space "immix": 616469856 live bytes, 1348780032 total bytes, 45.71 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immortal": 552800 live bytes, 2375680 total bytes, 23.27 %
+Utilization in space "los": 9768072 live bytes, 12771328 total bytes, 76.48 %
+        Before: Pool 18: 0.0%
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immortal": 552832 live bytes, 2375680 total bytes, 23.27 %
+Utilization in space "los": 9768072 live bytes, 12771328 total bytes, 76.48 %
+Utilization in space "immix": 635554072 live bytes, 1370505216 total bytes, 46.37 %
+Utilization in space "immix": 783102504 live bytes, 1531588608 total bytes, 51.13 %
+Utilization in space "immortal": 552832 live bytes, 2375680 total bytes, 23.27 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "los": 9768072 live bytes, 12771328 total bytes, 76.48 %
+Utilization in space "immix": 783102504 live bytes, 1531588608 total bytes, 51.13 %
+Utilization in space "immortal": 552832 live bytes, 2375680 total bytes, 23.27 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "los": 9768072 live bytes, 12771328 total bytes, 76.48 %
+         Alloc: Pool 18: 0.0%
+Utilization in space "immortal": 552832 live bytes, 2375680 total bytes, 23.27 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "los": 9768072 live bytes, 12771328 total bytes, 76.48 %
+Utilization in space "immix": 699792816 live bytes, 1532215296 total bytes, 45.67 %
+Utilization in space "immortal": 552832 live bytes, 2375680 total bytes, 23.27 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "los": 9768072 live bytes, 12771328 total bytes, 76.48 %
+Utilization in space "immix": 699792816 live bytes, 1532215296 total bytes, 45.67 %
+      Fragment: Pool 18: 0.0%
+Processing size class 160
+  Actual payload size: 152 bytes, N: 144
+  Allocating 1044480 objects
+Utilization in space "immix": 699794304 live bytes, 1531674624 total bytes, 45.69 %
+Utilization in space "immortal": 552848 live bytes, 2375680 total bytes, 23.27 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "los": 9768072 live bytes, 12771328 total bytes, 76.48 %
+Utilization in space "immix": 699794304 live bytes, 1531674624 total bytes, 45.69 %
+Utilization in space "immortal": 552848 live bytes, 2375680 total bytes, 23.27 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "los": 9768072 live bytes, 12771328 total bytes, 76.48 %
+        Before: Pool 19: 0.0%
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immix": 866918760 live bytes, 1710981120 total bytes, 50.67 %
+Utilization in space "los": 9768072 live bytes, 12771328 total bytes, 76.48 %
+Utilization in space "immortal": 552880 live bytes, 2375680 total bytes, 23.27 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immix": 866918760 live bytes, 1710981120 total bytes, 50.67 %
+Utilization in space "los": 9768072 live bytes, 12771328 total bytes, 76.48 %
+Utilization in space "immortal": 552880 live bytes, 2375680 total bytes, 23.27 %
+         Alloc: Pool 19: 0.0%
+Utilization in space "immix": 783363712 live bytes, 1710903296 total bytes, 45.79 %
+Utilization in space "immortal": 552880 live bytes, 2375680 total bytes, 23.27 %
+Utilization in space "los": 9768072 live bytes, 12771328 total bytes, 76.48 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immix": 783363712 live bytes, 1710903296 total bytes, 45.79 %
+Utilization in space "immortal": 552880 live bytes, 2375680 total bytes, 23.27 %
+Utilization in space "los": 9768072 live bytes, 12771328 total bytes, 76.48 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+      Fragment: Pool 19: 0.0%
+Processing size class 176
+  Actual payload size: 168 bytes, N: 160
+  Allocating 952320 objects
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "los": 9768072 live bytes, 12771328 total bytes, 76.48 %
+Utilization in space "immortal": 552896 live bytes, 2375680 total bytes, 23.27 %
+Utilization in space "immix": 783365232 live bytes, 1710911488 total bytes, 45.79 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "los": 9768072 live bytes, 12771328 total bytes, 76.48 %
+Utilization in space "immortal": 552896 live bytes, 2375680 total bytes, 23.27 %
+Utilization in space "immix": 783365232 live bytes, 1710911488 total bytes, 45.79 %
+        Before: Pool 20: 0.0%
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "los": 9768072 live bytes, 12771328 total bytes, 76.48 %
+Utilization in space "immortal": 552928 live bytes, 2375680 total bytes, 23.27 %
+Utilization in space "immix": 950980872 live bytes, 1893330944 total bytes, 50.23 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "los": 9768072 live bytes, 12771328 total bytes, 76.48 %
+Utilization in space "immortal": 552928 live bytes, 2375680 total bytes, 23.27 %
+Utilization in space "immix": 950980872 live bytes, 1893330944 total bytes, 50.23 %
+         Alloc: Pool 20: 0.0%
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immix": 867179696 live bytes, 1893257216 total bytes, 45.80 %
+Utilization in space "immortal": 552928 live bytes, 2375680 total bytes, 23.27 %
+Utilization in space "los": 9768072 live bytes, 12771328 total bytes, 76.48 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immix": 867179696 live bytes, 1893257216 total bytes, 45.80 %
+Utilization in space "immortal": 552928 live bytes, 2375680 total bytes, 23.27 %
+Utilization in space "los": 9768072 live bytes, 12771328 total bytes, 76.48 %
+      Fragment: Pool 20: 0.0%
+Processing size class 192
+  Actual payload size: 184 bytes, N: 176
+  Allocating 870400 objects
+Utilization in space "immix": 867181440 live bytes, 1893265408 total bytes, 45.80 %
+Utilization in space "immortal": 552944 live bytes, 2375680 total bytes, 23.28 %
+Utilization in space "los": 9768072 live bytes, 12771328 total bytes, 76.48 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immix": 867181440 live bytes, 1893265408 total bytes, 45.80 %
+Utilization in space "immortal": 552944 live bytes, 2375680 total bytes, 23.28 %
+Utilization in space "los": 9768072 live bytes, 12771328 total bytes, 76.48 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+        Before: Pool 21: 0.0%
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "los": 9768072 live bytes, 12771328 total bytes, 76.48 %
+Utilization in space "immix": 1028672808 live bytes, 2070269952 total bytes, 49.69 %
+Utilization in space "immortal": 552976 live bytes, 2375680 total bytes, 23.28 %
+Utilization in space "los": 9768072 live bytes, 12771328 total bytes, 76.48 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immortal": 552976 live bytes, 2375680 total bytes, 23.28 %
+Utilization in space "immix": 1034305496 live bytes, 2075213824 total bytes, 49.84 %
+Utilization in space "los": 9768072 live bytes, 12771328 total bytes, 76.48 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immortal": 552976 live bytes, 2375680 total bytes, 23.28 %
+Utilization in space "immix": 1034305496 live bytes, 2075213824 total bytes, 49.84 %
+         Alloc: Pool 21: 0.0%
+Utilization in space "los": 9768072 live bytes, 12771328 total bytes, 76.48 %
+Utilization in space "immortal": 552976 live bytes, 2375680 total bytes, 23.28 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immix": 950750112 live bytes, 2075836416 total bytes, 45.80 %
+Utilization in space "los": 9768072 live bytes, 12771328 total bytes, 76.48 %
+Utilization in space "immortal": 552976 live bytes, 2375680 total bytes, 23.28 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immix": 950750112 live bytes, 2075836416 total bytes, 45.80 %
+      Fragment: Pool 21: 0.0%
+Processing size class 208
+  Actual payload size: 200 bytes, N: 192
+  Allocating 798720 objects
+Utilization in space "immix": 950751984 live bytes, 2075299840 total bytes, 45.81 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "los": 9768072 live bytes, 12771328 total bytes, 76.48 %
+Utilization in space "immortal": 552992 live bytes, 2375680 total bytes, 23.28 %
+Utilization in space "immix": 950751984 live bytes, 2075299840 total bytes, 45.81 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "los": 9768072 live bytes, 12771328 total bytes, 76.48 %
+Utilization in space "immortal": 552992 live bytes, 2375680 total bytes, 23.28 %
+        Before: Pool 22: 0.0%
+Utilization in space "immortal": 553024 live bytes, 2375680 total bytes, 23.28 %
+Utilization in space "los": 9768072 live bytes, 12771328 total bytes, 76.48 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immix": 1116893016 live bytes, 2252619776 total bytes, 49.58 %
+Utilization in space "immortal": 553024 live bytes, 2375680 total bytes, 23.28 %
+Utilization in space "los": 9768072 live bytes, 12771328 total bytes, 76.48 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immix": 1116893016 live bytes, 2252619776 total bytes, 49.58 %
+         Alloc: Pool 22: 0.0%
+Utilization in space "immix": 1033829184 live bytes, 2252627968 total bytes, 45.89 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "los": 9768072 live bytes, 12771328 total bytes, 76.48 %
+Utilization in space "immortal": 553024 live bytes, 2375680 total bytes, 23.28 %
+Utilization in space "immix": 1033829184 live bytes, 2252627968 total bytes, 45.89 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "los": 9768072 live bytes, 12771328 total bytes, 76.48 %
+Utilization in space "immortal": 553024 live bytes, 2375680 total bytes, 23.28 %
+      Fragment: Pool 22: 0.0%
+Processing size class 224
+  Actual payload size: 216 bytes, N: 208
+  Allocating 747520 objects
+Utilization in space "los": 9768072 live bytes, 12771328 total bytes, 76.48 %
+Utilization in space "immortal": 553040 live bytes, 2375680 total bytes, 23.28 %
+Utilization in space "immix": 1033831184 live bytes, 2252550144 total bytes, 45.90 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "los": 9768072 live bytes, 12771328 total bytes, 76.48 %
+Utilization in space "immortal": 553040 live bytes, 2375680 total bytes, 23.28 %
+Utilization in space "immix": 1033831184 live bytes, 2252550144 total bytes, 45.90 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+        Before: Pool 23: 0.0%
+Utilization in space "immix": 1201283176 live bytes, 2432028672 total bytes, 49.39 %
+Utilization in space "immortal": 553072 live bytes, 2375680 total bytes, 23.28 %
+Utilization in space "los": 9768072 live bytes, 12771328 total bytes, 76.48 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immix": 1201283176 live bytes, 2432028672 total bytes, 49.39 %
+Utilization in space "immortal": 553072 live bytes, 2375680 total bytes, 23.28 %
+Utilization in space "los": 9768072 live bytes, 12771328 total bytes, 76.48 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+         Alloc: Pool 23: 0.0%
+Utilization in space "immix": 1117564256 live bytes, 2432028672 total bytes, 45.95 %
+Utilization in space "los": 9768072 live bytes, 12771328 total bytes, 76.48 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immortal": 553072 live bytes, 2375680 total bytes, 23.28 %
+Utilization in space "immix": 1117564256 live bytes, 2432028672 total bytes, 45.95 %
+Utilization in space "los": 9768072 live bytes, 12771328 total bytes, 76.48 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immortal": 553072 live bytes, 2375680 total bytes, 23.28 %
+      Fragment: Pool 23: 0.0%
+Processing size class 240
+  Actual payload size: 232 bytes, N: 224
+  Allocating 696320 objects
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immix": 1117566384 live bytes, 2431934464 total bytes, 45.95 %
+Utilization in space "immortal": 553088 live bytes, 2375680 total bytes, 23.28 %
+Utilization in space "los": 9768072 live bytes, 12771328 total bytes, 76.48 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immix": 1117566384 live bytes, 2431934464 total bytes, 45.95 %
+Utilization in space "immortal": 553088 live bytes, 2375680 total bytes, 23.28 %
+Utilization in space "los": 9768072 live bytes, 12771328 total bytes, 76.48 %
+        Before: Pool 24: 0.0%
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "los": 9768072 live bytes, 12771328 total bytes, 76.48 %
+Utilization in space "immix": 1284690680 live bytes, 2605936640 total bytes, 49.30 %
+Utilization in space "immortal": 553120 live bytes, 2375680 total bytes, 23.28 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "los": 9768072 live bytes, 12771328 total bytes, 76.48 %
+Utilization in space "immix": 1284690680 live bytes, 2605936640 total bytes, 49.30 %
+Utilization in space "immortal": 553120 live bytes, 2375680 total bytes, 23.28 %
+         Alloc: Pool 24: 0.0%
+Utilization in space "immix": 1201135440 live bytes, 2605936640 total bytes, 46.09 %
+Utilization in space "immortal": 553120 live bytes, 2375680 total bytes, 23.28 %
+Utilization in space "los": 9768072 live bytes, 12771328 total bytes, 76.48 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immix": 1201135440 live bytes, 2605936640 total bytes, 46.09 %
+Utilization in space "immortal": 553120 live bytes, 2375680 total bytes, 23.28 %
+Utilization in space "los": 9768072 live bytes, 12771328 total bytes, 76.48 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+      Fragment: Pool 24: 0.0%
+Processing size class 256
+  Actual payload size: 248 bytes, N: 240
+  Allocating 655360 objects
+Utilization in space "immortal": 553136 live bytes, 2375680 total bytes, 23.28 %
+Utilization in space "los": 9768072 live bytes, 12771328 total bytes, 76.48 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immix": 1201137696 live bytes, 2605846528 total bytes, 46.09 %
+Utilization in space "immortal": 553136 live bytes, 2375680 total bytes, 23.28 %
+Utilization in space "los": 9768072 live bytes, 12771328 total bytes, 76.48 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immix": 1201137696 live bytes, 2605846528 total bytes, 46.09 %
+        Before: Pool 25: 0.0%
+Utilization in space "immortal": 553168 live bytes, 2375680 total bytes, 23.28 %
+Utilization in space "immix": 1368917304 live bytes, 2793377792 total bytes, 49.01 %
+Utilization in space "los": 9768072 live bytes, 12771328 total bytes, 76.48 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immortal": 553168 live bytes, 2375680 total bytes, 23.28 %
+Utilization in space "immix": 1368917304 live bytes, 2793377792 total bytes, 49.01 %
+Utilization in space "los": 9768072 live bytes, 12771328 total bytes, 76.48 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+         Alloc: Pool 25: 0.0%
+Utilization in space "immix": 1285034368 live bytes, 2793385984 total bytes, 46.00 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immortal": 553168 live bytes, 2375680 total bytes, 23.28 %
+Utilization in space "los": 9768072 live bytes, 12771328 total bytes, 76.48 %
+Utilization in space "immix": 1285034368 live bytes, 2793385984 total bytes, 46.00 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immortal": 553168 live bytes, 2375680 total bytes, 23.28 %
+Utilization in space "los": 9768072 live bytes, 12771328 total bytes, 76.48 %
+      Fragment: Pool 25: 0.0%
+Processing size class 272
+  Actual payload size: 264 bytes, N: 256
+  Allocating 614400 objects
+Utilization in space "los": 9770136 live bytes, 12775424 total bytes, 76.48 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immix": 1285034688 live bytes, 2793299968 total bytes, 46.00 %
+Utilization in space "immortal": 553184 live bytes, 2375680 total bytes, 23.29 %
+Utilization in space "los": 9770136 live bytes, 12775424 total bytes, 76.48 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immix": 1285034688 live bytes, 2793299968 total bytes, 46.00 %
+Utilization in space "immortal": 553184 live bytes, 2375680 total bytes, 23.29 %
+        Before: Pool 26: 0.0%
+Utilization in space "immix": 1344533144 live bytes, 2858024960 total bytes, 47.04 %
+Utilization in space "immortal": 553216 live bytes, 2375680 total bytes, 23.29 %
+Utilization in space "los": 9770136 live bytes, 12775424 total bytes, 76.48 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immortal": 553216 live bytes, 2375680 total bytes, 23.29 %
+Utilization in space "immix": 1452158904 live bytes, 2974896128 total bytes, 48.81 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "los": 9770136 live bytes, 12775424 total bytes, 76.48 %
+Utilization in space "immortal": 553216 live bytes, 2375680 total bytes, 23.29 %
+Utilization in space "immix": 1452158904 live bytes, 2974896128 total bytes, 48.81 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "los": 9770136 live bytes, 12775424 total bytes, 76.48 %
+         Alloc: Pool 26: 0.0%
+Utilization in space "immortal": 553216 live bytes, 2375680 total bytes, 23.29 %
+Utilization in space "los": 9770136 live bytes, 12775424 total bytes, 76.48 %
+Utilization in space "immix": 1368603680 live bytes, 2974986240 total bytes, 46.00 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immortal": 553216 live bytes, 2375680 total bytes, 23.29 %
+Utilization in space "los": 9770136 live bytes, 12775424 total bytes, 76.48 %
+Utilization in space "immix": 1368603680 live bytes, 2974986240 total bytes, 46.00 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+      Fragment: Pool 26: 0.0%
+Processing size class 288
+  Actual payload size: 280 bytes, N: 272
+  Allocating 573440 objects
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immix": 1368604000 live bytes, 2974904320 total bytes, 46.00 %
+Utilization in space "los": 9772328 live bytes, 12779520 total bytes, 76.47 %
+Utilization in space "immortal": 553232 live bytes, 2375680 total bytes, 23.29 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immix": 1368604000 live bytes, 2974904320 total bytes, 46.00 %
+Utilization in space "los": 9772328 live bytes, 12779520 total bytes, 76.47 %
+Utilization in space "immortal": 553232 live bytes, 2375680 total bytes, 23.29 %
+        Before: Pool 27: 0.0%
+Utilization in space "los": 9772328 live bytes, 12779520 total bytes, 76.47 %
+Utilization in space "immix": 1533766272 live bytes, 3156578304 total bytes, 48.59 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immortal": 553264 live bytes, 2375680 total bytes, 23.29 %
+Utilization in space "los": 9772328 live bytes, 12779520 total bytes, 76.47 %
+Utilization in space "immix": 1533766272 live bytes, 3156578304 total bytes, 48.59 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immortal": 553264 live bytes, 2375680 total bytes, 23.29 %
+         Alloc: Pool 27: 0.0%
+Utilization in space "immortal": 553264 live bytes, 2375680 total bytes, 23.29 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immix": 1451194376 live bytes, 3156619264 total bytes, 45.97 %
+Utilization in space "los": 9772328 live bytes, 12779520 total bytes, 76.47 %
+Utilization in space "immortal": 553264 live bytes, 2375680 total bytes, 23.29 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immix": 1451194376 live bytes, 3156619264 total bytes, 45.97 %
+Utilization in space "los": 9772328 live bytes, 12779520 total bytes, 76.47 %
+      Fragment: Pool 27: 0.0%
+Processing size class 304
+  Actual payload size: 296 bytes, N: 288
+  Allocating 542720 objects
+Utilization in space "immortal": 553280 live bytes, 2375680 total bytes, 23.29 %
+Utilization in space "los": 9774648 live bytes, 12783616 total bytes, 76.46 %
+Utilization in space "immix": 1451194696 live bytes, 3156529152 total bytes, 45.97 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immortal": 553280 live bytes, 2375680 total bytes, 23.29 %
+Utilization in space "los": 9774648 live bytes, 12783616 total bytes, 76.46 %
+Utilization in space "immix": 1451194696 live bytes, 3156529152 total bytes, 45.97 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+        Before: Pool 28: 0.0%
+Utilization in space "immix": 1616192552 live bytes, 3341713408 total bytes, 48.36 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "los": 9774648 live bytes, 12783616 total bytes, 76.46 %
+Utilization in space "immortal": 553312 live bytes, 2375680 total bytes, 23.29 %
+Utilization in space "immix": 1616192552 live bytes, 3341713408 total bytes, 48.36 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "los": 9774648 live bytes, 12783616 total bytes, 76.46 %
+Utilization in space "immortal": 553312 live bytes, 2375680 total bytes, 23.29 %
+         Alloc: Pool 28: 0.0%
+Utilization in space "immortal": 553312 live bytes, 2375680 total bytes, 23.29 %
+Utilization in space "los": 9774648 live bytes, 12783616 total bytes, 76.46 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immix": 1533702640 live bytes, 3341680640 total bytes, 45.90 %
+Utilization in space "immortal": 553312 live bytes, 2375680 total bytes, 23.29 %
+Utilization in space "los": 9774648 live bytes, 12783616 total bytes, 76.46 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immix": 1533702640 live bytes, 3341680640 total bytes, 45.90 %
+      Fragment: Pool 28: 0.0%
+Processing size class 336
+  Actual payload size: 328 bytes, N: 320
+  Allocating 491520 objects
+Utilization in space "immortal": 553328 live bytes, 2375680 total bytes, 23.29 %
+Utilization in space "los": 9777224 live bytes, 12787712 total bytes, 76.46 %
+Utilization in space "immix": 1533702960 live bytes, 3341664256 total bytes, 45.90 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immortal": 553328 live bytes, 2375680 total bytes, 23.29 %
+Utilization in space "los": 9777224 live bytes, 12787712 total bytes, 76.46 %
+Utilization in space "immix": 1533702960 live bytes, 3341664256 total bytes, 45.90 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+        Before: Pool 29: 0.0%
+Utilization in space "immortal": 553360 live bytes, 2375680 total bytes, 23.29 %
+Utilization in space "immix": 1698865104 live bytes, 3523342336 total bytes, 48.22 %
+Utilization in space "los": 9777224 live bytes, 12787712 total bytes, 76.46 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immortal": 553360 live bytes, 2375680 total bytes, 23.29 %
+Utilization in space "immix": 1698865104 live bytes, 3523342336 total bytes, 48.22 %
+Utilization in space "los": 9777224 live bytes, 12787712 total bytes, 76.46 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+         Alloc: Pool 29: 0.0%
+Utilization in space "immortal": 553360 live bytes, 2375680 total bytes, 23.29 %
+Utilization in space "immix": 1616293048 live bytes, 3523366912 total bytes, 45.87 %
+Utilization in space "los": 9777224 live bytes, 12787712 total bytes, 76.46 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immortal": 553360 live bytes, 2375680 total bytes, 23.29 %
+Utilization in space "immix": 1616293048 live bytes, 3523366912 total bytes, 45.87 %
+Utilization in space "los": 9777224 live bytes, 12787712 total bytes, 76.46 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+      Fragment: Pool 29: 0.0%
+Processing size class 368
+  Actual payload size: 360 bytes, N: 352
+  Allocating 450560 objects
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immortal": 553376 live bytes, 2375680 total bytes, 23.29 %
+Utilization in space "immix": 1616293368 live bytes, 3523280896 total bytes, 45.87 %
+Utilization in space "los": 9780056 live bytes, 12791808 total bytes, 76.46 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immortal": 553376 live bytes, 2375680 total bytes, 23.29 %
+Utilization in space "immix": 1616293368 live bytes, 3523280896 total bytes, 45.87 %
+Utilization in space "los": 9780056 live bytes, 12791808 total bytes, 76.46 %
+        Before: Pool 30: 0.0%
+Utilization in space "los": 9780056 live bytes, 12791808 total bytes, 76.46 %
+Utilization in space "immortal": 553408 live bytes, 2375680 total bytes, 23.29 %
+Utilization in space "immix": 1782111592 live bytes, 3704967168 total bytes, 48.10 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "los": 9780056 live bytes, 12791808 total bytes, 76.46 %
+Utilization in space "immortal": 553408 live bytes, 2375680 total bytes, 23.29 %
+Utilization in space "immix": 1782111592 live bytes, 3704967168 total bytes, 48.10 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+         Alloc: Pool 30: 0.0%
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immix": 1699211920 live bytes, 3704991744 total bytes, 45.86 %
+Utilization in space "immortal": 553408 live bytes, 2375680 total bytes, 23.29 %
+Utilization in space "los": 9780056 live bytes, 12791808 total bytes, 76.46 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immix": 1699211920 live bytes, 3704991744 total bytes, 45.86 %
+Utilization in space "immortal": 553408 live bytes, 2375680 total bytes, 23.29 %
+Utilization in space "los": 9780056 live bytes, 12791808 total bytes, 76.46 %
+      Fragment: Pool 30: 0.0%
+Processing size class 400
+  Actual payload size: 392 bytes, N: 384
+  Allocating 409600 objects
+Utilization in space "los": 9783144 live bytes, 12800000 total bytes, 76.43 %
+Utilization in space "immortal": 553424 live bytes, 2375680 total bytes, 23.30 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immix": 1699212240 live bytes, 3704909824 total bytes, 45.86 %
+Utilization in space "los": 9783144 live bytes, 12800000 total bytes, 76.43 %
+Utilization in space "immortal": 553424 live bytes, 2375680 total bytes, 23.30 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immix": 1699212240 live bytes, 3704909824 total bytes, 45.86 %
+        Before: Pool 31: 0.0%
+Utilization in space "los": 9783144 live bytes, 12800000 total bytes, 76.43 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immix": 1863064784 live bytes, 3886592000 total bytes, 47.94 %
+Utilization in space "immortal": 553456 live bytes, 2375680 total bytes, 23.30 %
+Utilization in space "los": 9783144 live bytes, 12800000 total bytes, 76.43 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immix": 1863064784 live bytes, 3886592000 total bytes, 47.94 %
+Utilization in space "immortal": 553456 live bytes, 2375680 total bytes, 23.30 %
+         Alloc: Pool 31: 0.0%
+Utilization in space "immortal": 553456 live bytes, 2375680 total bytes, 23.30 %
+Utilization in space "los": 9783144 live bytes, 12800000 total bytes, 76.43 %
+Utilization in space "immix": 1781148312 live bytes, 3886632960 total bytes, 45.83 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immortal": 553456 live bytes, 2375680 total bytes, 23.30 %
+Utilization in space "los": 9783144 live bytes, 12800000 total bytes, 76.43 %
+Utilization in space "immix": 1781148312 live bytes, 3886632960 total bytes, 45.83 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+      Fragment: Pool 31: 0.0%
+Processing size class 448
+  Actual payload size: 440 bytes, N: 432
+  Allocating 368640 objects
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "los": 9786616 live bytes, 12804096 total bytes, 76.43 %
+Utilization in space "immix": 1781148632 live bytes, 3886551040 total bytes, 45.83 %
+Utilization in space "immortal": 553472 live bytes, 2375680 total bytes, 23.30 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "los": 9786616 live bytes, 12804096 total bytes, 76.43 %
+Utilization in space "immix": 1781148632 live bytes, 3886551040 total bytes, 45.83 %
+Utilization in space "immortal": 553472 live bytes, 2375680 total bytes, 23.30 %
+        Before: Pool 32: 0.0%
+Utilization in space "immix": 1946309920 live bytes, 4068241408 total bytes, 47.84 %
+Utilization in space "los": 9788752 live bytes, 12808192 total bytes, 76.43 %
+Utilization in space "immortal": 553504 live bytes, 2375680 total bytes, 23.30 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immix": 1946309920 live bytes, 4068241408 total bytes, 47.84 %
+Utilization in space "los": 9788752 live bytes, 12808192 total bytes, 76.43 %
+Utilization in space "immortal": 553504 live bytes, 2375680 total bytes, 23.30 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+         Alloc: Pool 32: 0.0%
+Utilization in space "immix": 1863738200 live bytes, 4068265984 total bytes, 45.81 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immortal": 553504 live bytes, 2375680 total bytes, 23.30 %
+Utilization in space "los": 9788752 live bytes, 12808192 total bytes, 76.43 %
+Utilization in space "immix": 1863738200 live bytes, 4068265984 total bytes, 45.81 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immortal": 553504 live bytes, 2375680 total bytes, 23.30 %
+Utilization in space "los": 9788752 live bytes, 12808192 total bytes, 76.43 %
+      Fragment: Pool 32: 0.0%
+Processing size class 496
+  Actual payload size: 488 bytes, N: 480
+  Allocating 337920 objects
+Utilization in space "immix": 1863738520 live bytes, 4068192256 total bytes, 45.81 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "los": 9792608 live bytes, 12812288 total bytes, 76.43 %
+Utilization in space "immortal": 553520 live bytes, 2375680 total bytes, 23.30 %
+Utilization in space "immix": 1863738520 live bytes, 4068192256 total bytes, 45.81 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "los": 9792608 live bytes, 12812288 total bytes, 76.43 %
+Utilization in space "immortal": 553520 live bytes, 2375680 total bytes, 23.30 %
+        Before: Pool 33: 0.0%
+Utilization in space "immix": 2031357792 live bytes, 4255539200 total bytes, 47.73 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immortal": 553552 live bytes, 2375680 total bytes, 23.30 %
+Utilization in space "los": 9794936 live bytes, 12816384 total bytes, 76.43 %
+Utilization in space "immix": 2031357792 live bytes, 4255539200 total bytes, 47.73 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immortal": 553552 live bytes, 2375680 total bytes, 23.30 %
+Utilization in space "los": 9794936 live bytes, 12816384 total bytes, 76.43 %
+         Alloc: Pool 33: 0.0%
+Utilization in space "immix": 1947557256 live bytes, 4255563776 total bytes, 45.76 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immortal": 553552 live bytes, 2375680 total bytes, 23.30 %
+Utilization in space "los": 9794936 live bytes, 12816384 total bytes, 76.43 %
+Utilization in space "immix": 1947557256 live bytes, 4255563776 total bytes, 45.76 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immortal": 553552 live bytes, 2375680 total bytes, 23.30 %
+Utilization in space "los": 9794936 live bytes, 12816384 total bytes, 76.43 %
+      Fragment: Pool 33: 0.0%
+Processing size class 544
+  Actual payload size: 536 bytes, N: 528
+  Allocating 307200 objects
+Utilization in space "immortal": 553568 live bytes, 2375680 total bytes, 23.30 %
+Utilization in space "immix": 1947557592 live bytes, 4255490048 total bytes, 45.77 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "los": 9799176 live bytes, 12824576 total bytes, 76.41 %
+Utilization in space "immortal": 553568 live bytes, 2375680 total bytes, 23.30 %
+Utilization in space "immix": 1947557592 live bytes, 4255490048 total bytes, 45.77 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "los": 9799176 live bytes, 12824576 total bytes, 76.41 %
+        Before: Pool 34: 0.0%
+Utilization in space "los": 9801696 live bytes, 12828672 total bytes, 76.40 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immortal": 553600 live bytes, 2375680 total bytes, 23.30 %
+Utilization in space "immix": 1962066288 live bytes, 4271333376 total bytes, 45.94 %
+Utilization in space "los": 9801696 live bytes, 12828672 total bytes, 76.40 %
+Utilization in space "immix": 2114686016 live bytes, 4437090304 total bytes, 47.66 %
+Utilization in space "immortal": 553600 live bytes, 2375680 total bytes, 23.30 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "los": 9801696 live bytes, 12828672 total bytes, 76.40 %
+Utilization in space "immix": 2114686016 live bytes, 4437090304 total bytes, 47.66 %
+Utilization in space "immortal": 553600 live bytes, 2375680 total bytes, 23.30 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+         Alloc: Pool 34: 0.0%
+Utilization in space "immix": 2031131336 live bytes, 4437184512 total bytes, 45.78 %
+Utilization in space "los": 9801696 live bytes, 12828672 total bytes, 76.40 %
+Utilization in space "immortal": 553600 live bytes, 2375680 total bytes, 23.30 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immix": 2031131336 live bytes, 4437184512 total bytes, 45.78 %
+Utilization in space "los": 9801696 live bytes, 12828672 total bytes, 76.40 %
+Utilization in space "immortal": 553600 live bytes, 2375680 total bytes, 23.30 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+      Fragment: Pool 34: 0.0%
+Processing size class 576
+  Actual payload size: 568 bytes, N: 560
+  Allocating 286720 objects
+Utilization in space "immix": 2031131672 live bytes, 4437106688 total bytes, 45.78 %
+Utilization in space "immortal": 553616 live bytes, 2408448 total bytes, 22.99 %
+Utilization in space "los": 9806192 live bytes, 12836864 total bytes, 76.39 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immix": 2031131672 live bytes, 4437106688 total bytes, 45.78 %
+Utilization in space "immortal": 553616 live bytes, 2408448 total bytes, 22.99 %
+Utilization in space "los": 9806192 live bytes, 12836864 total bytes, 76.39 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+        Before: Pool 35: 0.0%
+Utilization in space "los": 9808840 live bytes, 12840960 total bytes, 76.39 %
+Utilization in space "immortal": 553648 live bytes, 2408448 total bytes, 22.99 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immix": 2196294096 live bytes, 4618768384 total bytes, 47.55 %
+Utilization in space "los": 9808840 live bytes, 12840960 total bytes, 76.39 %
+Utilization in space "immortal": 553648 live bytes, 2408448 total bytes, 22.99 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immix": 2196294096 live bytes, 4618768384 total bytes, 47.55 %
+         Alloc: Pool 35: 0.0%
+Utilization in space "immix": 2113722520 live bytes, 4618801152 total bytes, 45.76 %
+Utilization in space "immortal": 553648 live bytes, 2408448 total bytes, 22.99 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "los": 9808840 live bytes, 12840960 total bytes, 76.39 %
+Utilization in space "immix": 2113722520 live bytes, 4618801152 total bytes, 45.76 %
+Utilization in space "immortal": 553648 live bytes, 2408448 total bytes, 22.99 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "los": 9808840 live bytes, 12840960 total bytes, 76.39 %
+      Fragment: Pool 35: 0.0%
+Processing size class 624
+  Actual payload size: 616 bytes, N: 608
+  Allocating 266240 objects
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "los": 9813720 live bytes, 12849152 total bytes, 76.38 %
+Utilization in space "immix": 2113723112 live bytes, 4618727424 total bytes, 45.76 %
+Utilization in space "immortal": 553664 live bytes, 2408448 total bytes, 22.99 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "los": 9813720 live bytes, 12849152 total bytes, 76.38 %
+Utilization in space "immix": 2113723112 live bytes, 4618727424 total bytes, 45.76 %
+Utilization in space "immortal": 553664 live bytes, 2408448 total bytes, 22.99 %
+        Before: Pool 36: 0.0%
+Utilization in space "immix": 2279869360 live bytes, 4800401408 total bytes, 47.49 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "los": 9816560 live bytes, 12853248 total bytes, 76.37 %
+Utilization in space "immortal": 553696 live bytes, 2408448 total bytes, 22.99 %
+Utilization in space "immix": 2279869360 live bytes, 4800401408 total bytes, 47.49 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "los": 9816560 live bytes, 12853248 total bytes, 76.37 %
+Utilization in space "immortal": 553696 live bytes, 2408448 total bytes, 22.99 %
+         Alloc: Pool 36: 0.0%
+Utilization in space "immix": 2196806360 live bytes, 4800417792 total bytes, 45.76 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immortal": 553696 live bytes, 2408448 total bytes, 22.99 %
+Utilization in space "los": 9816560 live bytes, 12853248 total bytes, 76.37 %
+Utilization in space "immix": 2196806360 live bytes, 4800417792 total bytes, 45.76 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immortal": 553696 live bytes, 2408448 total bytes, 22.99 %
+Utilization in space "los": 9816560 live bytes, 12853248 total bytes, 76.37 %
+      Fragment: Pool 36: 0.0%
+Processing size class 672
+  Actual payload size: 664 bytes, N: 656
+  Allocating 245760 objects
+Utilization in space "los": 9821824 live bytes, 12861440 total bytes, 76.37 %
+Utilization in space "immortal": 553712 live bytes, 2408448 total bytes, 22.99 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immix": 2196806696 live bytes, 4800352256 total bytes, 45.76 %
+Utilization in space "los": 9821824 live bytes, 12861440 total bytes, 76.37 %
+Utilization in space "immortal": 553712 live bytes, 2408448 total bytes, 22.99 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immix": 2196806696 live bytes, 4800352256 total bytes, 45.76 %
+        Before: Pool 37: 0.0%
+Utilization in space "los": 9826912 live bytes, 12869632 total bytes, 76.36 %
+Utilization in space "immortal": 553744 live bytes, 2408448 total bytes, 22.99 %
+Utilization in space "immix": 2361967720 live bytes, 4982038528 total bytes, 47.41 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "los": 9826912 live bytes, 12869632 total bytes, 76.36 %
+Utilization in space "immortal": 553744 live bytes, 2408448 total bytes, 22.99 %
+Utilization in space "immix": 2361967720 live bytes, 4982038528 total bytes, 47.41 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+         Alloc: Pool 37: 0.0%
+Utilization in space "immortal": 553744 live bytes, 2408448 total bytes, 22.99 %
+Utilization in space "los": 9826912 live bytes, 12869632 total bytes, 76.36 %
+Utilization in space "immix": 2279396336 live bytes, 4982054912 total bytes, 45.75 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immortal": 553744 live bytes, 2408448 total bytes, 22.99 %
+Utilization in space "los": 9826912 live bytes, 12869632 total bytes, 76.36 %
+Utilization in space "immix": 2279396336 live bytes, 4982054912 total bytes, 45.75 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+      Fragment: Pool 37: 0.0%
+Processing size class 736
+  Actual payload size: 728 bytes, N: 720
+  Allocating 225280 objects
+Utilization in space "immortal": 553760 live bytes, 2408448 total bytes, 22.99 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "los": 9832688 live bytes, 12877824 total bytes, 76.35 %
+Utilization in space "immix": 2279396672 live bytes, 4981968896 total bytes, 45.75 %
+Utilization in space "immortal": 553760 live bytes, 2408448 total bytes, 22.99 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "los": 9832688 live bytes, 12877824 total bytes, 76.35 %
+Utilization in space "immix": 2279396672 live bytes, 4981968896 total bytes, 45.75 %
+        Before: Pool 38: 0.0%
+Utilization in space "immortal": 553792 live bytes, 2408448 total bytes, 22.99 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immix": 2445213920 live bytes, 5163638784 total bytes, 47.35 %
+Utilization in space "los": 9838224 live bytes, 12886016 total bytes, 76.35 %
+Utilization in space "immortal": 553792 live bytes, 2408448 total bytes, 22.99 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immix": 2445213920 live bytes, 5163638784 total bytes, 47.35 %
+Utilization in space "los": 9838224 live bytes, 12886016 total bytes, 76.35 %
+         Alloc: Pool 38: 0.0%
+Utilization in space "immix": 2362314984 live bytes, 5163671552 total bytes, 45.75 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "los": 9838224 live bytes, 12886016 total bytes, 76.35 %
+Utilization in space "immortal": 553792 live bytes, 2408448 total bytes, 22.99 %
+Utilization in space "immix": 2362314984 live bytes, 5163671552 total bytes, 45.75 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "los": 9838224 live bytes, 12886016 total bytes, 76.35 %
+Utilization in space "immortal": 553792 live bytes, 2408448 total bytes, 22.99 %
+      Fragment: Pool 38: 0.0%
+Processing size class 816
+  Actual payload size: 808 bytes, N: 800
+  Allocating 204800 objects
+Utilization in space "immortal": 553808 live bytes, 2408448 total bytes, 22.99 %
+Utilization in space "los": 9844640 live bytes, 12894208 total bytes, 76.35 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immix": 2362315320 live bytes, 5163606016 total bytes, 45.75 %
+Utilization in space "immortal": 553808 live bytes, 2408448 total bytes, 22.99 %
+Utilization in space "los": 9844640 live bytes, 12894208 total bytes, 76.35 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immix": 2362315320 live bytes, 5163606016 total bytes, 45.75 %
+        Before: Pool 39: 0.0%
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immix": 2529443256 live bytes, 5345271808 total bytes, 47.32 %
+Utilization in space "immortal": 553840 live bytes, 2408448 total bytes, 23.00 %
+Utilization in space "los": 9850736 live bytes, 12902400 total bytes, 76.35 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immix": 2529443256 live bytes, 5345271808 total bytes, 47.32 %
+Utilization in space "immortal": 553840 live bytes, 2408448 total bytes, 23.00 %
+Utilization in space "los": 9850736 live bytes, 12902400 total bytes, 76.35 %
+         Alloc: Pool 39: 0.0%
+Utilization in space "immix": 2445889120 live bytes, 5345296384 total bytes, 45.76 %
+Utilization in space "los": 9850736 live bytes, 12902400 total bytes, 76.35 %
+Utilization in space "immortal": 553840 live bytes, 2408448 total bytes, 23.00 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immix": 2445889120 live bytes, 5345296384 total bytes, 45.76 %
+Utilization in space "los": 9850736 live bytes, 12902400 total bytes, 76.35 %
+Utilization in space "immortal": 553840 live bytes, 2408448 total bytes, 23.00 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+      Fragment: Pool 39: 0.0%
+Processing size class 896
+  Actual payload size: 888 bytes, N: 880
+  Allocating 184320 objects
+Utilization in space "immix": 2445889456 live bytes, 5345222656 total bytes, 45.76 %
+Utilization in space "immortal": 553856 live bytes, 2408448 total bytes, 23.00 %
+Utilization in space "los": 9857792 live bytes, 12910592 total bytes, 76.35 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immix": 2445889456 live bytes, 5345222656 total bytes, 45.76 %
+Utilization in space "immortal": 553856 live bytes, 2408448 total bytes, 23.00 %
+Utilization in space "los": 9857792 live bytes, 12910592 total bytes, 76.35 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+        Before: Pool 40: 0.0%
+Utilization in space "immortal": 553888 live bytes, 2408448 total bytes, 23.00 %
+Utilization in space "immix": 2611051776 live bytes, 5526872064 total bytes, 47.24 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "los": 9864448 live bytes, 12918784 total bytes, 76.36 %
+Utilization in space "immortal": 553888 live bytes, 2408448 total bytes, 23.00 %
+Utilization in space "immix": 2611051776 live bytes, 5526872064 total bytes, 47.24 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "los": 9864448 live bytes, 12918784 total bytes, 76.36 %
+         Alloc: Pool 40: 0.0%
+Utilization in space "immortal": 553888 live bytes, 2408448 total bytes, 23.00 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "los": 9864448 live bytes, 12918784 total bytes, 76.36 %
+Utilization in space "immix": 2528480840 live bytes, 5526917120 total bytes, 45.75 %
+Utilization in space "immortal": 553888 live bytes, 2408448 total bytes, 23.00 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "los": 9864448 live bytes, 12918784 total bytes, 76.36 %
+Utilization in space "immix": 2528480840 live bytes, 5526917120 total bytes, 45.75 %
+      Fragment: Pool 40: 0.0%
+Processing size class 1008
+  Actual payload size: 1000 bytes, N: 992
+  Allocating 163840 objects
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immortal": 553904 live bytes, 2408448 total bytes, 23.00 %
+Utilization in space "immix": 2528481176 live bytes, 5526839296 total bytes, 45.75 %
+Utilization in space "los": 9872400 live bytes, 12926976 total bytes, 76.37 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immortal": 553904 live bytes, 2408448 total bytes, 23.00 %
+Utilization in space "immix": 2528481176 live bytes, 5526839296 total bytes, 45.75 %
+Utilization in space "los": 9872400 live bytes, 12926976 total bytes, 76.37 %
+        Before: Pool 41: 0.0%
+Utilization in space "immix": 2693640208 live bytes, 5708484608 total bytes, 47.19 %
+Utilization in space "immortal": 553936 live bytes, 2408448 total bytes, 23.00 %
+Utilization in space "los": 9883992 live bytes, 12947456 total bytes, 76.34 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immix": 2693640208 live bytes, 5708484608 total bytes, 47.19 %
+Utilization in space "immortal": 553936 live bytes, 2408448 total bytes, 23.00 %
+Utilization in space "los": 9883992 live bytes, 12947456 total bytes, 76.34 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+         Alloc: Pool 41: 0.0%
+Utilization in space "immix": 2611069528 live bytes, 5708500992 total bytes, 45.74 %
+Utilization in space "immortal": 553936 live bytes, 2408448 total bytes, 23.00 %
+Utilization in space "los": 9883992 live bytes, 12947456 total bytes, 76.34 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immix": 2611069528 live bytes, 5708500992 total bytes, 45.74 %
+Utilization in space "immortal": 553936 live bytes, 2408448 total bytes, 23.00 %
+Utilization in space "los": 9883992 live bytes, 12947456 total bytes, 76.34 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+      Fragment: Pool 41: 0.0%
+Processing size class 1088
+  Actual payload size: 1080 bytes, N: 1072
+  Allocating 153600 objects
+Utilization in space "immix": 2611069864 live bytes, 5708431360 total bytes, 45.74 %
+Utilization in space "los": 9892584 live bytes, 12959744 total bytes, 76.33 %
+Utilization in space "immortal": 553952 live bytes, 2408448 total bytes, 23.00 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immix": 2611069864 live bytes, 5708431360 total bytes, 45.74 %
+Utilization in space "los": 9892584 live bytes, 12959744 total bytes, 76.33 %
+Utilization in space "immortal": 553952 live bytes, 2408448 total bytes, 23.00 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+        Before: Pool 42: 0.0%
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "los": 9905056 live bytes, 12980224 total bytes, 76.31 %
+Utilization in space "immix": 2742240960 live bytes, 5861175296 total bytes, 46.79 %
+Utilization in space "immortal": 553984 live bytes, 2408448 total bytes, 23.00 %
+Utilization in space "immix": 2778194992 live bytes, 5902987264 total bytes, 47.06 %
+Utilization in space "immortal": 553984 live bytes, 2408448 total bytes, 23.00 %
+Utilization in space "los": 9905056 live bytes, 12980224 total bytes, 76.31 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immix": 2778194992 live bytes, 5902987264 total bytes, 47.06 %
+Utilization in space "immortal": 553984 live bytes, 2408448 total bytes, 23.00 %
+Utilization in space "los": 9905056 live bytes, 12980224 total bytes, 76.31 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+         Alloc: Pool 42: 0.0%
+Utilization in space "los": 9905056 live bytes, 12980224 total bytes, 76.31 %
+Utilization in space "immix": 2694641528 live bytes, 5903060992 total bytes, 45.65 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immortal": 553984 live bytes, 2408448 total bytes, 23.00 %
+Utilization in space "los": 9905056 live bytes, 12980224 total bytes, 76.31 %
+Utilization in space "immix": 2694641528 live bytes, 5903060992 total bytes, 45.65 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immortal": 553984 live bytes, 2408448 total bytes, 23.00 %
+      Fragment: Pool 42: 0.0%
+Processing size class 1168
+  Actual payload size: 1160 bytes, N: 1152
+  Allocating 143360 objects
+Utilization in space "los": 9914288 live bytes, 12992512 total bytes, 76.31 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immix": 2694641864 live bytes, 5903003648 total bytes, 45.65 %
+Utilization in space "immortal": 554000 live bytes, 2408448 total bytes, 23.00 %
+Utilization in space "los": 9914288 live bytes, 12992512 total bytes, 76.31 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immix": 2694641864 live bytes, 5903003648 total bytes, 45.65 %
+Utilization in space "immortal": 554000 live bytes, 2408448 total bytes, 23.00 %
+        Before: Pool 43: 0.0%
+Utilization in space "immortal": 554032 live bytes, 2408448 total bytes, 23.00 %
+Utilization in space "los": 9927640 live bytes, 13012992 total bytes, 76.29 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immix": 2862094848 live bytes, 6084636672 total bytes, 47.04 %
+Utilization in space "immortal": 554032 live bytes, 2408448 total bytes, 23.00 %
+Utilization in space "los": 9927640 live bytes, 13012992 total bytes, 76.29 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immix": 2862094848 live bytes, 6084636672 total bytes, 47.04 %
+         Alloc: Pool 43: 0.0%
+Utilization in space "immortal": 554032 live bytes, 2408448 total bytes, 23.00 %
+Utilization in space "los": 9927640 live bytes, 13012992 total bytes, 76.29 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immix": 2778378088 live bytes, 6084673536 total bytes, 45.66 %
+Utilization in space "immortal": 554032 live bytes, 2408448 total bytes, 23.00 %
+Utilization in space "los": 9927640 live bytes, 13012992 total bytes, 76.29 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immix": 2778378088 live bytes, 6084673536 total bytes, 45.66 %
+      Fragment: Pool 43: 0.0%
+Processing size class 1248
+  Actual payload size: 1240 bytes, N: 1232
+  Allocating 133120 objects
+Utilization in space "los": 9937512 live bytes, 13025280 total bytes, 76.29 %
+Utilization in space "immortal": 554048 live bytes, 2408448 total bytes, 23.00 %
+Utilization in space "immix": 2778378424 live bytes, 6084595712 total bytes, 45.66 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "los": 9937512 live bytes, 13025280 total bytes, 76.29 %
+Utilization in space "immortal": 554048 live bytes, 2408448 total bytes, 23.00 %
+Utilization in space "immix": 2778378424 live bytes, 6084595712 total bytes, 45.66 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+        Before: Pool 44: 0.0%
+Utilization in space "immix": 2944520256 live bytes, 6281355264 total bytes, 46.88 %
+Utilization in space "immortal": 554080 live bytes, 2408448 total bytes, 23.01 %
+Utilization in space "los": 9951744 live bytes, 13045760 total bytes, 76.28 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immix": 2944520256 live bytes, 6281355264 total bytes, 46.88 %
+Utilization in space "immortal": 554080 live bytes, 2408448 total bytes, 23.01 %
+Utilization in space "los": 9951744 live bytes, 13045760 total bytes, 76.28 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+         Alloc: Pool 44: 0.0%
+Utilization in space "immix": 2861458600 live bytes, 6281388032 total bytes, 45.55 %
+Utilization in space "immortal": 554080 live bytes, 2408448 total bytes, 23.01 %
+Utilization in space "los": 9951744 live bytes, 13045760 total bytes, 76.28 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immix": 2861458600 live bytes, 6281388032 total bytes, 45.55 %
+Utilization in space "immortal": 554080 live bytes, 2408448 total bytes, 23.01 %
+Utilization in space "los": 9951744 live bytes, 13045760 total bytes, 76.28 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+      Fragment: Pool 44: 0.0%
+Processing size class 1360
+  Actual payload size: 1352 bytes, N: 1344
+  Allocating 122880 objects
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immix": 2861458936 live bytes, 6281322496 total bytes, 45.56 %
+Utilization in space "immortal": 554096 live bytes, 2408448 total bytes, 23.01 %
+Utilization in space "los": 9962512 live bytes, 13058048 total bytes, 76.29 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immix": 2861458936 live bytes, 6281322496 total bytes, 45.56 %
+Utilization in space "immortal": 554096 live bytes, 2408448 total bytes, 23.01 %
+Utilization in space "los": 9962512 live bytes, 13058048 total bytes, 76.29 %
+        Before: Pool 45: 0.0%
+Utilization in space "los": 9977976 live bytes, 13086720 total bytes, 76.25 %
+Utilization in space "immortal": 554128 live bytes, 2408448 total bytes, 23.01 %
+Utilization in space "immix": 3028583920 live bytes, 6462955520 total bytes, 46.86 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "los": 9977976 live bytes, 13086720 total bytes, 76.25 %
+Utilization in space "immortal": 554128 live bytes, 2408448 total bytes, 23.01 %
+Utilization in space "immix": 3028583920 live bytes, 6462955520 total bytes, 46.86 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+         Alloc: Pool 45: 0.0%
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "los": 9977976 live bytes, 13086720 total bytes, 76.25 %
+Utilization in space "immortal": 554128 live bytes, 2408448 total bytes, 23.01 %
+Utilization in space "immix": 2945031000 live bytes, 6463008768 total bytes, 45.57 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "los": 9977976 live bytes, 13086720 total bytes, 76.25 %
+Utilization in space "immortal": 554128 live bytes, 2408448 total bytes, 23.01 %
+Utilization in space "immix": 2945031000 live bytes, 6463008768 total bytes, 45.57 %
+      Fragment: Pool 45: 0.0%
+Processing size class 1488
+  Actual payload size: 1480 bytes, N: 1472
+  Allocating 112640 objects
+Utilization in space "los": 9989768 live bytes, 13099008 total bytes, 76.26 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immix": 2945031336 live bytes, 6462930944 total bytes, 45.57 %
+Utilization in space "immortal": 554144 live bytes, 2408448 total bytes, 23.01 %
+Utilization in space "los": 9989768 live bytes, 13099008 total bytes, 76.26 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immix": 2945031336 live bytes, 6462930944 total bytes, 45.57 %
+Utilization in space "immortal": 554144 live bytes, 2408448 total bytes, 23.01 %
+        Before: Pool 46: 0.0%
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immortal": 554176 live bytes, 2408448 total bytes, 23.01 %
+Utilization in space "immix": 3112648112 live bytes, 6662746112 total bytes, 46.72 %
+Utilization in space "los": 10006640 live bytes, 13123584 total bytes, 76.25 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immortal": 554176 live bytes, 2408448 total bytes, 23.01 %
+Utilization in space "immix": 3112648112 live bytes, 6662746112 total bytes, 46.72 %
+Utilization in space "los": 10006640 live bytes, 13123584 total bytes, 76.25 %
+         Alloc: Pool 46: 0.0%
+Utilization in space "immix": 3028849720 live bytes, 6662762496 total bytes, 45.46 %
+Utilization in space "immortal": 554176 live bytes, 2408448 total bytes, 23.01 %
+Utilization in space "los": 10006640 live bytes, 13123584 total bytes, 76.25 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immix": 3028849720 live bytes, 6662762496 total bytes, 45.46 %
+Utilization in space "immortal": 554176 live bytes, 2408448 total bytes, 23.01 %
+Utilization in space "los": 10006640 live bytes, 13123584 total bytes, 76.25 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+      Fragment: Pool 46: 0.0%
+Processing size class 1632
+  Actual payload size: 1624 bytes, N: 1616
+  Allocating 102400 objects
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immix": 3028850056 live bytes, 6662701056 total bytes, 45.46 %
+Utilization in space "los": 10019584 live bytes, 13139968 total bytes, 76.25 %
+Utilization in space "immortal": 554192 live bytes, 2408448 total bytes, 23.01 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immix": 3028850056 live bytes, 6662701056 total bytes, 45.46 %
+Utilization in space "los": 10019584 live bytes, 13139968 total bytes, 76.25 %
+Utilization in space "immortal": 554192 live bytes, 2408448 total bytes, 23.01 %
+        Before: Pool 47: 0.0%
+Utilization in space "los": 10038040 live bytes, 13164544 total bytes, 76.25 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immortal": 554224 live bytes, 2408448 total bytes, 23.01 %
+Utilization in space "immix": 3195975568 live bytes, 6844346368 total bytes, 46.70 %
+Utilization in space "los": 10038040 live bytes, 13164544 total bytes, 76.25 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immortal": 554224 live bytes, 2408448 total bytes, 23.01 %
+Utilization in space "immix": 3195975568 live bytes, 6844346368 total bytes, 46.70 %
+         Alloc: Pool 47: 0.0%
+Utilization in space "immortal": 554224 live bytes, 2408448 total bytes, 23.01 %
+Utilization in space "los": 10038040 live bytes, 13164544 total bytes, 76.25 %
+Utilization in space "immix": 3112423064 live bytes, 6844387328 total bytes, 45.47 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immortal": 554224 live bytes, 2408448 total bytes, 23.01 %
+Utilization in space "los": 10038040 live bytes, 13164544 total bytes, 76.25 %
+Utilization in space "immix": 3112423064 live bytes, 6844387328 total bytes, 45.47 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+      Fragment: Pool 47: 0.0%
+Processing size class 1808
+  Actual payload size: 1800 bytes, N: 1792
+  Allocating 92160 objects
+Utilization in space "los": 10052392 live bytes, 13180928 total bytes, 76.26 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immix": 3112423400 live bytes, 6844321792 total bytes, 45.47 %
+Utilization in space "immortal": 554240 live bytes, 2408448 total bytes, 23.01 %
+Utilization in space "los": 10052392 live bytes, 13180928 total bytes, 76.26 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immix": 3112423400 live bytes, 6844321792 total bytes, 45.47 %
+Utilization in space "immortal": 554240 live bytes, 2408448 total bytes, 23.01 %
+        Before: Pool 48: 0.0%
+Utilization in space "immortal": 554272 live bytes, 2408448 total bytes, 23.01 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immix": 3279057312 live bytes, 7048646656 total bytes, 46.52 %
+Utilization in space "los": 10072784 live bytes, 13205504 total bytes, 76.28 %
+Utilization in space "immortal": 554272 live bytes, 2408448 total bytes, 23.01 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immix": 3279057312 live bytes, 7048646656 total bytes, 46.52 %
+Utilization in space "los": 10072784 live bytes, 13205504 total bytes, 76.28 %
+         Alloc: Pool 48: 0.0%
+Utilization in space "immortal": 554272 live bytes, 2408448 total bytes, 23.01 %
+Utilization in space "immix": 3195750920 live bytes, 7048646656 total bytes, 45.34 %
+Utilization in space "los": 10072784 live bytes, 13205504 total bytes, 76.28 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immortal": 554272 live bytes, 2408448 total bytes, 23.01 %
+Utilization in space "immix": 3195750920 live bytes, 7048646656 total bytes, 45.34 %
+Utilization in space "los": 10072784 live bytes, 13205504 total bytes, 76.28 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+      Fragment: Pool 48: 0.0%
+Processing size class 2032
+  Actual payload size: 2024 bytes, N: 2016
+  Allocating 81920 objects
+Utilization in space "immortal": 554288 live bytes, 2408448 total bytes, 23.01 %
+Utilization in space "los": 10088928 live bytes, 13221888 total bytes, 76.30 %
+Utilization in space "immix": 3195751256 live bytes, 7048605696 total bytes, 45.34 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immortal": 554288 live bytes, 2408448 total bytes, 23.01 %
+Utilization in space "los": 10088928 live bytes, 13221888 total bytes, 76.30 %
+Utilization in space "immix": 3195751256 live bytes, 7048605696 total bytes, 45.34 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+        Before: Pool 49: 0.0%
+Utilization in space "immix": 3362221712 live bytes, 7230230528 total bytes, 46.50 %
+Utilization in space "immortal": 554320 live bytes, 2408448 total bytes, 23.02 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "los": 10111784 live bytes, 13258752 total bytes, 76.26 %
+Utilization in space "immix": 3362221712 live bytes, 7230230528 total bytes, 46.50 %
+Utilization in space "immortal": 554320 live bytes, 2408448 total bytes, 23.02 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "los": 10111784 live bytes, 13258752 total bytes, 76.26 %
+         Alloc: Pool 49: 0.0%
+Utilization in space "immix": 3278997688 live bytes, 7230255104 total bytes, 45.35 %
+Utilization in space "immortal": 554320 live bytes, 2408448 total bytes, 23.02 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "los": 10111784 live bytes, 13258752 total bytes, 76.26 %
+Utilization in space "immix": 3278997688 live bytes, 7230255104 total bytes, 45.35 %
+Utilization in space "immortal": 554320 live bytes, 2408448 total bytes, 23.02 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "los": 10111784 live bytes, 13258752 total bytes, 76.26 %
+      Fragment: Pool 49: 0.0%
+
+Fragmentation complete.
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immortal": 554320 live bytes, 2408448 total bytes, 23.02 %
+Utilization in space "immix": 3278997688 live bytes, 7230214144 total bytes, 45.35 %
+Utilization in space "los": 10111784 live bytes, 13258752 total bytes, 76.26 %
+Utilization in space "vm_space": 0 live bytes, 249950208 total bytes, 0.00 %
+Utilization in space "immortal": 554320 live bytes, 2408448 total bytes, 23.02 %
+Utilization in space "immix": 3278997688 live bytes, 7230214144 total bytes, 45.35 %
+Utilization in space "los": 10111784 live bytes, 13258752 total bytes, 76.26 %
+         Final: Pool 1: 0.0%
+         Final: Pool 2: 0.0%
+         Final: Pool 3: 0.0%
+         Final: Pool 4: 0.0%
+         Final: Pool 5: 0.0%
+         Final: Pool 6: 0.0%
+         Final: Pool 7: 0.0%
+         Final: Pool 8: 0.0%
+         Final: Pool 9: 0.0%
+         Final: Pool 10: 0.0%
+         Final: Pool 11: 0.0%
+         Final: Pool 12: 0.0%
+         Final: Pool 13: 0.0%
+         Final: Pool 14: 0.0%
+         Final: Pool 15: 0.0%
+         Final: Pool 16: 0.0%
+         Final: Pool 17: 0.0%
+         Final: Pool 18: 0.0%
+         Final: Pool 19: 0.0%
+         Final: Pool 20: 0.0%
+         Final: Pool 21: 0.0%
+         Final: Pool 22: 0.0%
+         Final: Pool 23: 0.0%
+         Final: Pool 24: 0.0%
+         Final: Pool 25: 0.0%
+         Final: Pool 26: 0.0%
+         Final: Pool 27: 0.0%
+         Final: Pool 28: 0.0%
+         Final: Pool 29: 0.0%
+         Final: Pool 30: 0.0%
+         Final: Pool 31: 0.0%
+         Final: Pool 32: 0.0%
+         Final: Pool 33: 0.0%
+         Final: Pool 34: 0.0%
+         Final: Pool 35: 0.0%
+         Final: Pool 36: 0.0%
+         Final: Pool 37: 0.0%
+         Final: Pool 38: 0.0%
+         Final: Pool 39: 0.0%
+         Final: Pool 40: 0.0%
+         Final: Pool 41: 0.0%
+         Final: Pool 42: 0.0%
+         Final: Pool 43: 0.0%
+         Final: Pool 44: 0.0%
+         Final: Pool 45: 0.0%
+         Final: Pool 46: 0.0%
+         Final: Pool 47: 0.0%
+         Final: Pool 48: 0.0%
+         Final: Pool 49: 0.0%
+Kept lists: 39
+  List length: 2621442
+  List length: 1745922
+  List length: 1310722
+  List length: 1044482
+  List length: 870402
+  List length: 747522
+  List length: 655362
+  List length: 578562
+  List length: 522242
+  List length: 476162
+  List length: 435202
+  List length: 399362
+  List length: 373762
+  List length: 348162
+  List length: 327682
+  List length: 307202
+  List length: 286722
+  List length: 271362
+  List length: 245762
+  List length: 225282
+  List length: 204802
+  List length: 184322
+  List length: 168962
+  List length: 153602
+  List length: 143362
+  List length: 133122
+  List length: 122882
+  List length: 112642
+  List length: 102402
+  List length: 92162
+  List length: 81922
+  List length: 76802
+  List length: 71682
+  List length: 66562
+  List length: 61442
+  List length: 56322
+  List length: 51202
+  List length: 46082
+  List length: 40962
+Total live objects: 15764558
+(value = nothing, times = 0x00000035bf14ad29, gc_diff = Base.GC_Diff(6633122446, 1066, 0, 9106063, 105, 2525, 220441343953, 128, 127), gc_start = Base.GC_Num(372015182, 0, 25835800, 4029, 0, 2606640, 1534, 2220, 92366078, 0, 0x0000000002bc0000, 6, 1, 0, 0, 13964, 13964, 75721, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0), gc_end = Base.GC_Num(7005137628, 0, 42284096, 5095, 0, 11712703, 1639, 4745, 220533710031, 0, 0x0000000002bc0000, 134, 128, 0, 0, 17846, 26820, 2153620, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0))
