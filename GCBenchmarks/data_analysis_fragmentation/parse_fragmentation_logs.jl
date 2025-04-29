@@ -58,8 +58,8 @@ function parse_stock_gc_fragmentation_logs()
     end
 end
 
-const MMTK_GC_FRAGMENTATION_PATHS = ["logs/fragmentation_benchmark_julia-immix.log", "logs/inference_benchmark_julia-immix.log",
-                                    "logs/fragmentation_benchmark_julia-sticky-immix.log", "logs/inference_benchmark_julia-sticky-immix.log"]
+const MMTK_GC_FRAGMENTATION_PATHS = ["logs/fragmentation_benchmark_julia-immix-moving-upstream.log",
+    "logs/inference_benchmark_julia-immix-moving-upstream.log"]
 
 # Each line in the logs are of the form:
 # `Utilization in space "immix": 33428624 live bytes, 150147072 total bytes, 22.26 %`

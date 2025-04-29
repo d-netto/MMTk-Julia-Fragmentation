@@ -88,6 +88,7 @@ extern void* mmtk_new_mutator_iterator(void);
 extern void* mmtk_get_next_mutator_tls(void*);
 extern void* mmtk_close_mutator_iterator(void*);
 extern void mmtk_store_obj_size_c(void* obj, size_t size);
+extern void print_fragmentation(void);
 
 /**
  * VM Accounting

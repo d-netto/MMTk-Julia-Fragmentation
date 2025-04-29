@@ -94,7 +94,7 @@ function run_with_retries {
 }
 
 # Run the benchmarks for all GC implementations
-# run_with_retries julia-stock
+run_with_retries julia-stock
 # run_with_retries julia-immix
 # run_with_retries julia-sticky-immix
 RUST_BACKTRACE=1 run_with_retries julia-immix-moving-upstream
